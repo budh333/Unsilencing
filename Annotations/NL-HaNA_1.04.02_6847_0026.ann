@@ -7,8 +7,6 @@ R2	Is Arg1:T3 Arg2:T2
 T5	Person 2126 2136	W: Lammens
 T6	Person 2144 2151	Jan van
 T7	Unclear_entity 2173 2191	17:' Januarij 1769
-T8	Men 2217 2220	m:r
 T9	Person 2221 2236	Egbert Blomhert
-R3	Is Arg1:T9 Arg2:T8	
 T10	GPE 2281 2297	nederlands india
 T11	GPE 2326 2333	batavia

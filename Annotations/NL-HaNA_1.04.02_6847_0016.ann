@@ -5,9 +5,7 @@ T5	Person 576 592	Eggbert Blomhert
 T7	Unclear_entity 729 743	13: 8bert 1768
 T8	Person 745 769	Marten Albregt Heynagtez
 T9	Unclear_entity 790 807	15: November 1768
-T10	Men 830 833	m:r
 T11	Person 834 848	Egbert Blomher
-R2	Is Arg1:T11 Arg2:T10	
 T13	GPE 894 911	nederlands Jordia
 T14	GPE 940 946	batera
 T15	Person 1000 1006;1007 1025	Martin Albregt Heijnagtsz
@@ -22,8 +20,6 @@ T23	Person 1852 1858	olinda
 T24	Number 1919 1923	twee
 T25	Group 1924 1931	slaeven
 T26	Indigenous 1924 1931	slaeven
-T27	Women 1936 1940	haar
-T28	Women 1973 1977	haar
 T29	Group 2135 2143	kinderen
 T2	Unclear_entity 995 999	mont
 R1	Is Arg1:T18 Arg2:T17	

@@ -3,9 +3,7 @@ T2	Person 647 658;659 670	Zoaelitbra„ ham Simonoz
 T3	Person 809 819	D: V: Haak
 T4	Person 1020 1041	Jacob Adolff ver Mehr
 T5	Unclear_entity 1064 1079	31:' Maart 1769
-T6	Men 1101 1104	m:r
 T7	Person 1105 1120	Egbert Blomhert
-R1	Is Arg1:T7 Arg2:T6	
 T8	GPE 1166 1182	nederlands india
 T9	GPE 1210 1213;1214 1219	ba„ favra
 T10	Person 1269 1278;1280 1295	E:s Jacob Adolff ver Mehr

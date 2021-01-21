@@ -11,9 +11,7 @@ T10	Person 894 897	Ian
 T11	Person 898 905	Hendrik
 T12	Person 909 929	Anna magteld Heijnen
 T13	Person 1278 1294	Leendert goossen
-T14	Men 1274 1277	dE:
 T17	Person 1341 1355	Roeloff Croese
-T18	Men 1356 1363	opperm:
 T19	Women 1405 1411	Zuster
 T20	Women 1412 1417	Jns=m
 T21	Person 1418 1427;1428 1435	magdalend Reijnen
@@ -26,6 +24,3 @@ R3	Is Arg1:T6 Arg2:T5
 #1	AnnotatorNotes T9	Last name: Heynen
 #2	AnnotatorNotes T10	Last name: Heynen
 #3	AnnotatorNotes T11	Last name: Heynen
-T15	Men 2320 2323	dE:
-R4	Is Arg1:T23 Arg2:T15	
-R5	Is Arg1:T25 Arg2:T15	

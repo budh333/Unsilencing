@@ -4,9 +4,7 @@ T4	GPE 228 235	Holland
 T5	GPE 266 269;270 284	ne„ derlands india
 T6	GPE 313 320	Batavia
 T7	Men 392 397	Heere
-T8	Men 398 401	M:r
 T9	Person 402 422	Reimer Stapel Iunior
-R1	Is Arg1:T9 Arg2:T8	
 R2	Is Arg1:T9 Arg2:T7	
 T10	Men 522 526	sijn
 R3	Is Arg1:T9 Arg2:T10	

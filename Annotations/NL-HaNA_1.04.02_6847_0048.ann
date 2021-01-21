@@ -6,7 +6,6 @@ T5	Person 305 315	Jan morits
 R1	Is Arg1:T3 Arg2:T4	
 R2	Is Arg1:T3 Arg2:T2	
 R3	Is Arg1:T3 Arg2:T1	
-T6	Women 394 397	zij
 T7	Women 408 414	moeder
 T8	Men 780 784	heer
 T9	Person 785 803	Bensamin De Bruijn

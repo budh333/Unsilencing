@@ -8,14 +8,12 @@ T6	GPE 426 436	nagapatnam
 T7	Women 449 454	Ins=m
 T8	Person 455 469;470 474	Anna Cornilia„ Bonk
 R2	Is Arg1:T8 Arg2:T7	
-T9	Women 478 482	haar
 T10	Person 491 501	Jan du Mow
 T11	Men 483 486	man
 R3	Is Arg1:T10 Arg2:T11	
 T12	GPE 532 543	pack poeram
 T13	Men 869 876	broeder
 T14	Men 911 914	man
-T15	Women 906 910	haar
 T16	Person 915 925	Jan du Mon
 R4	Is Arg1:T16 Arg2:T14	
 T17	Person 877 886	hollebeek

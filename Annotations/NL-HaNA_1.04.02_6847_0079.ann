@@ -1,8 +1,6 @@
 T1	Person 75 102	Christiaan Perdinant Cramer
 T2	Unclear_entity 116 135	14:' November 1770.
-T3	Men 157 160	M:r
 T4	Person 161 176	Herman Scheltus
-R1	Is Arg1:T4 Arg2:T3	
 T5	GPE 225 241	nederlands India
 T6	GPE 271 278	Batavia
 T7	Person 330 357	Christiaan Ferdinant Cramer

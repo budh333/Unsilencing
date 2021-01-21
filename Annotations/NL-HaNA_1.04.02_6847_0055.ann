@@ -3,9 +3,7 @@ T2	Person 1163 1166;1167 1179	Jo„ nas Domingos
 T3	Person 1339 1344	Zalle
 T4	Person 1354 1361;1362 1376	Bernard Christaane Ret
 T5	Unclear_entity 1393 1407	10: Iunij 1760
-T6	Men 1432 1435	m:r
 T7	Person 1436 1453	pieter Iacob Bert
-R1	Is Arg1:T7 Arg2:T6	
 T8	GPE 1496 1512	nederlands indra
 T9	GPE 1540 1547	babavia
 T10	Men 1597 1602	mons:

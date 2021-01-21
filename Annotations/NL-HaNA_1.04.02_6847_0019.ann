@@ -7,7 +7,6 @@ T4	Women 136 141	wed:e
 R3	Is Arg1:T3 Arg2:T4	
 T5	Person 146 150;151 165	Jaak Martens Cramer
 T6	Person 179 202	Cobald Hendrik Brinkman
-T7	Women 210 214	haar
 T8	Men 242 249	broeder
 T9	Women 253 259	suster
 T10	Person 260 272;273 281	Cobald Eijko Brinkman
@@ -15,12 +14,9 @@ R6	Is Arg1:T10 Arg2:T8
 T11	Person 295 320	Sabina Elisabeth Brinkman
 R7	Is Arg1:T11 Arg2:T9	
 T12	GPE 351 364	oostvriesland
-T13	Men 697 700	m:r
 T14	Person 701 718	Pieter Iacob Bert
-R8	Is Arg1:T14 Arg2:T13	
 T15	Men 1005 1017	Eerw: heeren
 T16	Men 1694 1697	hij
 T17	Men 1764 1768	zijn
 T18	Person 2089 2112	Gerardus Elias Rwalette
 T19	Person 2118 2133;2134 2143	Ionas Domingosz Clencquen
-T20	Women 1436 1440	haar

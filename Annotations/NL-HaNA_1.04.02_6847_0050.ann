@@ -10,9 +10,9 @@ T6	Person 606 622	Cornelis de kock
 T7	Men 638 644	mons:r
 T8	Person 645 663	Johan Jacob muller
 T9	Men 726 730	heer
-T10	Men 1206 1214	heer m:r
 T11	Person 1215 1222;1224 1226;1227 1244	maurits l: Theodorus Hilgers
-R4	Is Arg1:T11 Arg2:T10	
 T12	GPE 1265 1270;1271 1276	neder Jndia
 T13	Person 1287 1308	george willem Ransche
 T14	Person 1409 1417;1418 1424	Cornelis de kok
+T10	Men 1206 1210	heer
+R4	Is Arg1:T11 Arg2:T10	

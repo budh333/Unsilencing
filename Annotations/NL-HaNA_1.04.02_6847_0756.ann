@@ -31,3 +31,7 @@ T29	GPE 2548 2555	Batavia
 T30	Person 2608 2622	Carel Pietersz
 T31	Women 2653 2661	Iuffrouw
 T32	Person 2662 2675;2676 2690	helena magda„ „lena Goedhard
+R1	Is Arg1:T9 Arg2:T8	
+R2	Is Arg1:T9 Arg2:T8	
+R3	Is Arg1:T11 Arg2:T7	
+R4	Is Arg1:T11 Arg2:T7	

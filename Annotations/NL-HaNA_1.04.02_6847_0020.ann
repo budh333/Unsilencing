@@ -10,11 +10,9 @@ T11	Person 704 724	Nicoloas Senk Cmamer
 T12	Unclear_entity 725 735	Chiaurgijn
 T13	Person 785 788;789 804	An„ dries Jan Zalle
 T14	Unclear_entity 828 839	9 xber 1763
-T15	Men 870 873	m:r
 T16	Person 874 891	Pieter Iacob Perk
 T17	Men 1132 1135	hij
 R1	Is Arg1:T16 Arg2:T17	
-R2	Is Arg1:T16 Arg2:T15	
 T18	Men 1294 1297	hem
 T19	Men 1298 1305	De Heer
 T20	Person 1306 1323	Pieter Lamrensoor

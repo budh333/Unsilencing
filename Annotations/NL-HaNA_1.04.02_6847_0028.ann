@@ -11,9 +11,7 @@ R3	Is Arg1:T5 Arg2:T2
 T8	GPE 324 330	schale
 T9	Men 497 503	Heeren
 T10	Person 504 513;514 523	cristiaan Klaarbont
-T11	Men 527 530	M:r
 T12	Person 531 549	Johannes Benkelaar
-R4	Is Arg1:T12 Arg2:T11	
 R5	Is Arg1:T10 Arg2:T9	
 T13	GPE 571 582	amstveromme
 T14	Person 1778 1795	Iohannes Simnonsz

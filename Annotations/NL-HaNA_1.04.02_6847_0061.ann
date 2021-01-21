@@ -4,8 +4,6 @@ T3	Unclear_entity 971 989	28: Iunij A:o 1769
 T4	Person 1018 1039	Jacob Adolff ver Mehr
 T5	Unclear_entity 1062 1076	31: Maart 1769
 T6	Person 1115 1130	Egbert Blomhert
-T7	Men 1111 1114	m:r
-R1	Is Arg1:T6 Arg2:T7	
 T8	GPE 1210 1215	Javra
 T9	Person 1265 1274;1275 1276;1277 1291	Exs Jacob „ Adoiz van Bena
 T10	GPE 1343 1350	malacca

@@ -1,8 +1,6 @@
 T1	Person 12 29	Willem Otto Reitz
 T2	Person 233 247	J: V: D: Bergh
-T3	Men 313 316	M:r
 T4	Person 317 333	Egbert Blomherf,
-R1	Is Arg1:T4 Arg2:T3	
 T5	GPE 382 398	nederlands India
 T6	GPE 437 444	Batavia
 T7	Person 489 507	Wilhelm Otto Reitz

@@ -2,16 +2,13 @@ T1	Person 268 275;276 284	Abraham Salomons
 T2	Person 288 304	Sirardus de Melo
 T3	Person 458 473	Egbert Blomhert
 T4	Person 483 506	Philippu Gygbertus Meus
-T5	Men 595 598	m:r
 T6	Person 599 616	pieter Jacob Bert
-R1	Is Arg1:T6 Arg2:T5	
-R2	Is Arg1:T4 Arg2:T5	
-R3	Is Arg1:T3 Arg2:T5	
 T7	GPE 657 674	nederlands in dea
 T8	GPE 704 711	batavia
 T9	Men 765 769	Heer
 T10	Person 770 795	Philippus Gusbertus meurs
 R4	Is Arg1:T10 Arg2:T9	
 T11	Women 875 882	mepst=m
-T12	Women 883 904	Johanna menia rotgers
+T12	Person 883 904	Johanna menia rotgers
 T13	Women 1000 1006	Jnst=r
+R1	Is Arg1:T12 Arg2:T11	

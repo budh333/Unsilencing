@@ -15,9 +15,7 @@ T12	Unclear_entity 1256 1273	4:' Januarij 1769
 T13	Person 1305 1325	Peterm van der Werth
 T14	Person 1326 1333	Hermanu
 T15	Unclear_entity 1349 1366	13: December 1768
-T16	Men 1417 1420	M:r
 T17	Person 1421 1442	Pieter Willem Lammens
-R3	Is Arg1:T17 Arg2:T16	
 T18	GPE 1487 1503	nederlands india
 T19	GPE 1539 1546	batavia
 T20	Men 1606 1610	haer

@@ -9,9 +9,7 @@ T7	Person 679 704	Wouter Rudolph van Sweden
 T8	Unclear_entity 722 735	9: Iunij 1758
 T9	Person 765 774	Jan Lalle
 T10	GPE 888 895	Batavia
-T11	Men 951 954	M:r
 T12	Person 955 980	wouter Ridolph van Senden
-R2	Is Arg1:T12 Arg2:T11	
 T13	Women 1023 1029	Dist=m
 T14	Person 1030 1045;1046 1066	wilhelmina Mar„ garesta de Eerdingen
 R3	Is Arg1:T14 Arg2:T13	

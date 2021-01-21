@@ -1,9 +1,7 @@
 T1	Women 1999 2005	moeder
 T2	Person 2006 2031	marra wilhelmina seldfren
 R1	Is Arg1:T2 Arg2:T1	
-T3	Women 2032 2036	wese
 T4	Person 2041 2051	Joh: Errst
-R2	Is Arg1:T2 Arg2:T3	
 T5	GPE 2065 2081	nassan deelenbur
 T6	Men 2118 2125	broeder
 T7	Women 2129 2134	suste

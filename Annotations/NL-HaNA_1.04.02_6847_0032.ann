@@ -3,9 +3,7 @@ T2	Person 962 977	Bernardus Vrons
 T3	Person 1113 1124	P: Blomhert
 T4	Person 1134 1147	Jan Schreuder
 T5	Unclear_entity 1165 1182	16: Januarij 1769
-T6	Men 1192 1195	m:r
 T7	Person 1196 1217	Pieter willem Lammens
-R1	Is Arg1:T7 Arg2:T6	
 T8	GPE 1261 1277	nederlands India
 T9	GPE 1306 1313	Batavia
 T10	GPE 1406 1409;1410 1415	Jac Catra

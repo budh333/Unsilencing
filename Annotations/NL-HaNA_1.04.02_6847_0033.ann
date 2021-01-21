@@ -1,6 +1,4 @@
-T1	Men 87 90	M:r
 T2	Person 91 108	Pieter Willem lam
-R1	Is Arg1:T2 Arg2:T1	
 T3	GPE 158 168;169 174	nederlands Indio
 T4	GPE 204 211	Batavia
 T5	Men 283 287	Heer

@@ -2,9 +2,7 @@ T1	GPE 142 149	Batavia
 T2	Unclear_entity 166 180	19: 8ber: 1768
 T3	Person 210 235	Jan Henderik van der Laan
 T4	Unclear_entity 256 269	19: Iber 1768
-T5	Men 293 296	m:r
 T6	Person 297 312	Egbert Blomhert
-R1	Is Arg1:T6 Arg2:T5	
 T7	GPE 357 373	nederlands India
 T8	GPE 402 409	Batavia
 R2	Geographical_part Arg1:T8 Arg2:T7	
@@ -28,6 +26,4 @@ T22	Men 2230 2234	heer
 T23	Person 2235 2238;2239 2259	Jan Hendrik van der laen
 R7	Is Arg1:T23 Arg2:T22	
 T24	GPE 2278 2290	bellingwolde
-R8	Is Arg1:T3 Arg2:T5	
-T25	Men 459 461	dE
 R9	Is Arg1:T20 Arg2:T21	

@@ -11,9 +11,6 @@ T7	Person 1244 1260	Lnks van Boegies
 #4	AnnotatorNotes T7	Lanko van Boegis
 T8	Person 1261 1280	Malatie van Batavia
 T9	Person 1284 1289;1290 1299	Pabra van Balij
-T10	Indigenous 1513 1524	Njai Rentje
-#5	AnnotatorNotes T10	Njai Kentje, vrije madame
-T11	Women 1513 1524	Njai Rentje
 T12	Person 1661 1690	Chritina Elisabeth zeijlinger
 T13	Person 1967 1981	Wijnand Franke
 T14	Person 1950 1963	Jan Augustijn
@@ -48,4 +45,12 @@ R7	Is Arg1:T9 Arg2:T20
 T35	Women 1491 1498	machome
 #7	AnnotatorNotes T35	madame
 T36	Women 1507 1512	vrouw
-T37	Unclear_entity 1485 1506	vrije machome, zuanje
+T10	Person 1513 1524	Njai Rentje
+R8	Is Arg1:T10 Arg2:T36	
+T11	Women 1500 1506	zuanje
+T37	Indigenous 1482 1512	de vrije machome, zuanje vrouw
+R9	Is Arg1:T10 Arg2:T11	
+R10	Is Arg1:T10 Arg2:T37	
+R11	Is Arg1:T10 Arg2:T35	
+R12	Is Arg1:T15 Arg2:T22	
+R13	Is Arg1:T15 Arg2:T16	

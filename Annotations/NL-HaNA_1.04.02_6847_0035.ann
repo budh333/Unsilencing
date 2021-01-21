@@ -1,6 +1,5 @@
 T1	Person 15 32	Cornelis valentyn
 T2	Person 33 51	Christina Bastiana
-T3	Women 33 51	Christina Bastiana
 T4	Person 55 76	Ioan Willem schrender
 T5	Women 374 383	puysvrouw
 T6	Indigenous 529 535	slaven
@@ -10,3 +9,4 @@ T9	Women 867 876	hijsvrouw
 T10	GPE 1012 1027	ederlands india
 T11	Unclear_entity 1049 1066	20: august:o 1762
 T12	Women 1725 1735	huijsvrouw
+R1	Is Arg1:T2 Arg2:T5	

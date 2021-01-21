@@ -1,28 +1,17 @@
-T1	Women 139 145	moeder
 T2	Group 186 192	onders
-T3	Women 298 301	zij
-T4	Women 416 420	haar
 T5	Women 421 427	moeder
 T6	Women 428 436	mesust=r
 T7	Person 437 452	Hester IacobaLe
 R1	Is Arg1:T7 Arg2:T6	
 R2	Is Arg1:T7 Arg2:T5	
-R3	Is Arg1:T7 Arg2:T4	
 T8	Women 459 464	wed:e
 T9	Person 476 504	Guillianr Gerard Franchimont
-T10	Men 921 927	zijner
-T11	Women 932 938	haarer
-T12	Men 985 991	zijner
-T13	Women 996 1001	harer
 T14	Men 1070 1075	voogd
 T15	Women 1080 1089	voogdesse
 T16	Unclear_entity 1112 1116	kend
 T17	Group 1120 1128	kinderen
 T18	Men 1790 1801	agt: heeren
 T19	Women 2189 2199	Testatrice
-T20	Women 2231 2234	zij
-T21	Women 2387 2391	haer
-T22	Women 2483 2487	hare
 T23	Women 133 138;139 145	groot moeder
 T24	Women 277 287	testatrice
 T25	Number 2425 2429	drie

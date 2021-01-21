@@ -5,11 +5,9 @@ T4	Unclear_entity 967 986	28: Zijnij A:o 1769
 T5	Person 1015 1036	Jacob Adolff ver Mehr
 T6	Unclear_entity 1059 1073	31: Maart 1769
 T7	Person 1099 1114	Egbert Blomhert
-T8	Men 1095 1098	m:r
 T9	GPE 1159 1175	nederlands india
 T10	GPE 1203 1206;1207 1212	ba„ favra
 T11	Person 1262 1271;1272 1273;1274 1289	Ets Jacob „ Adolff ver Mehr
-R1	Is Arg1:T7 Arg2:T8	
 T12	GPE 1343 1350	malacca
 T13	Indigenous 1827 1831;1832 1839	sla„ verrige
 T14	Indigenous 1879 1891	lijf eidenen

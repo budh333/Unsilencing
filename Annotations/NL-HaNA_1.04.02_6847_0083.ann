@@ -1,9 +1,6 @@
 T1	Person 87 106	Christina Elizabeth
-T2	Women 140 144	haar
-R1	Is Arg1:T1 Arg2:T2	
 T3	Men 145 148	man
 T4	Person 184 193;194 200	Maria Do„ rothea
-R2	Is Arg1:T4 Arg2:T2	
 T5	GPE 283 290	Steltin
 T6	Person 294 311	Anna Regina Swart
 T7	Women 326 332	dogter

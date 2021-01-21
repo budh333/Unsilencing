@@ -6,9 +6,7 @@ T5	Unclear_entity 967 975;976 980	25: Jann 1769
 T6	Person 1015 1022	Pruymer
 T7	Person 1023 1045	Gerind Gerhard Henderk
 T8	Unclear_entity 1066 1080	18: Iunij 1763
-T9	Men 1103 1106	M:r
 T10	Person 1107 1124	Pieter Iacob Bert
-R1	Is Arg1:T10 Arg2:T9	
 T11	Men 1270 1274	Heer
 T12	Person 1275 1298;1299 1303	geerhardt Hendrik Prui„ mers
 T13	GPE 1213 1220	batavia

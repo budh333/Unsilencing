@@ -2,9 +2,8 @@ T1	Indigenous 1398 1404	slaven
 T2	Unclear_entity 1406 1440;1441 1511	die blijdenisse die van den Chris„ telijken Gods dienst. gedaan hebben, dat die niet mogen verkogt worden
 T3	Person 1948 1969	Carel Pieter Semoriak
 T4	Person 1973 1990;1991 2000	Iacobus Ieronimus Hanibalsz
-T5	Person 2165 2175	Blomherlt=
 T6	Unclear_entity 2213 2232	26:e Maij A=o 1770.
-T7	Men 2259 2262	M:r
 T8	Person 2263 2278	Herman Scheltus
-R1	Is Arg1:T8 Arg2:T7	
 T9	GPE 2330 2346	Nederlands Jndia
+T7	Men 2279 2286	notaris
+R1	Is Arg1:T8 Arg2:T7	

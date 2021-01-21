@@ -1,6 +1,4 @@
-T1	Person 676 690	Anna Elisabeth
 T2	Women 1312 1318	Sister
-T3	Women 676 690	Anna Elisabeth
 T4	Person 1319 1337	Iohannes Theodorns
 T5	Men 1301 1308	broeder
 R1	Is Arg1:T4 Arg2:T5	
@@ -15,3 +13,4 @@ T10	GPE 1528 1535	Zulphen
 T11	Men 2082 2086	heer
 T12	Person 2087 2105	Johan Manrits Mohr
 R4	Is Arg1:T12 Arg2:T11	
+T1	Person 676 690	Anna Elisabeth

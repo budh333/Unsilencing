@@ -27,11 +27,8 @@ R8	Is Arg1:T18 Arg2:T17
 T19	Person 2317 2329	Ian Scrender
 T20	Group 2343 2351	kinderen
 T21	Person 2352 2372	geertruyda Casparina
-T22	Women 2352 2372	geertruyda Casparina
 T23	Person 2373 2392	Wilhelmina Elrabesh
-T24	Women 2373 2392	Wilhelmina Elrabesh
 T25	Person 2393 2411	Cornelis valen tyn
-T26	Women 2412 2430	Christina Bastiana
 T27	Person 2412 2430	Christina Bastiana
 T28	Person 2434 2456	Johan Willem schrender
 R9	Is Arg1:T28 Arg2:T20	
