@@ -2,8 +2,6 @@ T1	Person 240 256	Cornelis Potmans
 T2	Men 230 239	de Heeren
 R1	Is Arg1:T1 Arg2:T2	
 T3	Person 263 281	Johannes Huijsinga
-T4	Men 260 262	M„
-R2	Is Arg1:T3 Arg2:T4	
 R3	Is Arg1:T3 Arg2:T2	
 T5	Person 316 343	Elisabeth Machtilda de wijs
 T6	Person 365 370	Volle

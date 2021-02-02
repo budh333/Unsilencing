@@ -1,11 +1,8 @@
 T1	Person 0 18	Pieter Adriaan Pla
 T2	Person 72 83	willem doms
-T3	Men 84 99	notaris publecq
-R1	Is Arg1:T2 Arg2:T3	
 T4	GPE 143 152	rotterdam
 T5	Men 200 206	deheer
 T6	Person 207 224	Pieter Adriaan Pa
 T7	Women 228 234	vrouwe
-T9	Men 311 318	notaris
 T8	Person 235 267	Aenoudina Hermina van Gele Twent
 R2	Is Arg1:T8 Arg2:T7	

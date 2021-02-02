@@ -1,8 +1,5 @@
 T1	Person 117 130	Hendrik Stuwe
-T2	Men 105 116	Aanspreeker
-R1	Is Arg1:T1 Arg2:T2	
 T3	GPE 185 203	de Theewaterstraat
-T4	GPE 220 233	Lutherse kerk
 T5	GPE 297 313	de kaijmansgragt
 T6	GPE 344 359	de tijgersgragt
 T7	GPE 367 401	op de hoek van de Amsterdam graagt
@@ -10,15 +7,10 @@ T8	GPE 524 556	de angiolse vaart buijten destad
 T9	Indigenous 667 679	LijfEijgenen
 T10	Indigenous 1084 1096	LijfEijgenen
 T11	Person 2302 2319	Gerrit Vijverberg
-T12	Men 2320 2332;2333 2336	huijstimmer„ man
-R2	Is Arg1:T11 Arg2:T12	
 T13	Person 2379 2395	Abraham Salomons
-T14	Men 2402 2411	Clercquen
-R3	Is Arg1:T13 Arg2:T14	
-R4	Is Arg1:T11 Arg2:T14	
 T15	Person 2555 2566	E: Blomhert
-T16	Men 2567 2574	notaris
-R5	Is Arg1:T15 Arg2:T16	
 T17	GPE 2717 2724	Batavia
 T18	Person 2776 2789	C: F: Severin
 T19	GPE 24 70	de westzijde van de heere straet binnen destad
+T2	Men 848 857	testateur
+T12	Organization 220 233	Lutherse kerk

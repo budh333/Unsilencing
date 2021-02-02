@@ -11,18 +11,15 @@ T11	GPE 1343 1350	malarca
 T12	Indigenous 1827 1831;1832 1839	sla„ vernije
 T13	Indigenous 1880 1893	lijf eijdenen
 T14	Person 1904 1922	maart van Sumbanwa
-T15	Men 1926 1930	sijn
 T16	Women 1931 1934	wij
 T17	Person 1935 1953;1954 1957	H Tsindra van boe„ gis
 T18	Person 1971 1991	Rosina van maccasser
 T19	Person 1993 2009	Jasson van boegi
-T20	Men 2015 2019	zijn
 T21	Women 2020 2025	wijff
 T22	Person 2026 2045	manies van Ternaten
 R1	Is Arg1:T22 Arg2:T21	
 R2	Is Arg1:T22 Arg2:T12	
 R3	Is Arg1:T22 Arg2:T13	
-R4	Is Arg1:T19 Arg2:T20	
 R5	Is Arg1:T19 Arg2:T13	
 R6	Is Arg1:T19 Arg2:T12	
 R7	Is Arg1:T18 Arg2:T16	
@@ -31,6 +28,7 @@ R9	Is Arg1:T18 Arg2:T12
 R10	Is Arg1:T17 Arg2:T16	
 R11	Is Arg1:T17 Arg2:T13	
 R12	Is Arg1:T17 Arg2:T12	
-R13	Is Arg1:T14 Arg2:T15	
 R14	Is Arg1:T14 Arg2:T13	
 R15	Is Arg1:T14 Arg2:T12	
+T6	Men 1095 1098	m:r
+R4	Is Arg1:T7 Arg2:T6	

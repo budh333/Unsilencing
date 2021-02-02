@@ -3,7 +3,6 @@ T2	Person 88 103	Abrham Salomons
 T3	Person 107 121	Arnoldus Prons
 T4	Person 260 268	Blomhert
 T5	Person 277 299	Coinraad Pieter Keller
-T6	Unclear_entity 321 334	2. Iuny 17688
 T7	Person 361 377	Eegbent Blombert
 T8	GPE 416 432	nederlands endra
 T9	GPE 460 467	Caliara
@@ -13,4 +12,8 @@ T12	Men 713 717	Heer
 T13	Person 718 724;725 745	Iosan„ nes Pudodicus Keller
 R1	Is Arg1:T13 Arg2:T12	
 T14	GPE 762 781	portigeese gemeente
-T15	GPE 796 815	Jare Fredrik Welske
+T15	Person 796 815	Jare Fredrik Welske
+T16	Men 357 360	S:r
+R2	Is Arg1:T7 Arg2:T16	
+T17	Men 792 795	dE:
+R3	Is Arg1:T15 Arg2:T17	

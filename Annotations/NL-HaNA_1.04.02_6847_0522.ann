@@ -1,24 +1,14 @@
-T1	GPE 191 234	staaten Generaal der vereenigde nederlanden
+T1	Organization 191 234	staaten Generaal der vereenigde nederlanden
 T2	Women 287 297	gedagdesse
-T3	Men 664 667	M„r
 T4	Person 668 684	Geijsbertus Maas
-R1	Is Arg1:T4 Arg2:T3	
 T5	Person 704 719	Iacob de Meijer
-T6	Men 700 703	M„r
-R2	Is Arg1:T5 Arg2:T6	
 T7	Person 724 743	Paulus Van Leliveld
-T8	Men 747 750	M„r
 T9	Person 751 768	Theodorus Bergsma
-R3	Is Arg1:T9 Arg2:T8	
 T10	Men 770 771	M
 T11	Person 772 792	Fredrikherman muller
 R4	Is Arg1:T11 Arg2:T10	
 T13	Person 797 824	Anthonij Cornelis verspijck
 T15	Person 832 838;839 846	Pierre Zoelman
 T16	Person 1340 1352	C: F Severin
-T17	Men 1353 1363	secretaris
-R7	Is Arg1:T16 Arg2:T17	
-T18	Men 1545 1548	M„r
 T19	Person 1549 1559	Gijsbertus
-R8	Is Arg1:T19 Arg2:T18	
-T20	Men 1925 1939	Commissarissen
+T3	GPE 212 234	vereenigde nederlanden

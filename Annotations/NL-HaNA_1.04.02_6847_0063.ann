@@ -11,18 +11,15 @@ T11	GPE 1349 1356	malacca
 T12	Indigenous 1836 1840;1841 1848	sla„ vernije
 T13	Indigenous 1889 1901	lijf eidenen
 T14	Person 1912 1930	maart van Sumbanwa
-T15	Men 1934 1938	sijn
 T16	Women 1939 1942	wij
 T17	Person 1945 1961;1962 1965	Tsindra van boe„ gis
 T18	Person 1979 1999	Rosina van maccasser
 T19	Person 2001 2018	Jasson van boegis
-T20	Men 2023 2027	sijn
 T21	Women 2028 2033	wijff
 T22	Person 2034 2053	manies van Ternaten
 R2	Is Arg1:T22 Arg2:T21	
 R3	Is Arg1:T22 Arg2:T12	
 R4	Is Arg1:T22 Arg2:T12	
-R5	Is Arg1:T19 Arg2:T20	
 R6	Is Arg1:T19 Arg2:T13	
 R7	Is Arg1:T19 Arg2:T12	
 R8	Is Arg1:T18 Arg2:T16	
@@ -31,6 +28,5 @@ R10	Is Arg1:T18 Arg2:T12
 R11	Is Arg1:T17 Arg2:T16	
 R12	Is Arg1:T17 Arg2:T13	
 R13	Is Arg1:T17 Arg2:T12	
-R14	Is Arg1:T14 Arg2:T15	
 R15	Is Arg1:T14 Arg2:T13	
 R16	Is Arg1:T14 Arg2:T12	

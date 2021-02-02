@@ -4,35 +4,22 @@ T3	Person 81 96	Pieter Haksteen
 R1	Is Arg1:T3 Arg2:T2	
 T4	Organization 122 140	nederlandsch india
 T5	Person 318 331	Pietie Josias
-T6	Men 332 344	onderkoopman
-R2	Is Arg1:T5 Arg2:T6	
 T7	Men 565 569	heer
 T8	Person 570 577;578 591	Asuerus Van den Bergh
-T9	Men 605 615	Commandeur
-T10	Men 619 639	opperEquipagiemeeste
-R3	Is Arg1:T8 Arg2:T9	
-R4	Is Arg1:T8 Arg2:T10	
 T11	Women 690 695	dogte
 T12	Person 697 718	Geertruijda Perridena
 R5	Is Arg1:T12 Arg2:T11	
-T13	Men 797 807	den otaris
 T14	Men 808 811	M„r
 T15	Person 812 827	Egbert Olomhers
 R6	Is Arg1:T15 Arg2:T14	
-R7	Is Arg1:T15 Arg2:T13	
 T16	Women 1646 1653	huijsv:
 T17	Women 1654 1662	mejuff=r
 T18	Person 1663 1668	Lahai
 R8	Is Arg1:T18 Arg2:T17	
-T19	Unclear_entity 1684 1691	Carette
 T20	Person 1846 1862	A: van den bergh
 T21	GPE 1799 1806	batavia
 T22	Person 2058 2073	paulus Nicolaes
 T23	Person 2077 2091	Bernard Aronsz
-T24	Men 2092 2098	Clercq
-R9	Is Arg1:T22 Arg2:T24	
-R10	Is Arg1:T23 Arg2:T24	
 T25	Person 2237 2247	H Scheltus
 T26	Person 2436 2447	C J: Severm
-T27	Men 2448 2457	Secretari
-R11	Is Arg1:T26 Arg2:T27	
+R2	Is Arg1:T8 Arg2:T7	

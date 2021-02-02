@@ -1,0 +1,18 @@
+T1	Person 371 403	Frredericus Censlantijn Gerritsz
+#1	AnnotatorNotes T1	Fredericus Constantijn Gerritsz
+T2	Person 408 427;428 435	Fredetik Balthajare Isaaksz
+T3	Person 584 587	Rol
+#2	AnnotatorNotes T3	Rolf
+T4	Organization 685 704	Heere weesmeesteren
+T5	GPE 731 738	Batavia
+T6	Person 866 892	Anthonij Cornelis Verspijk
+T7	Organization 924 961	Hooge Regeeringe van Nederlakds India
+T8	GPE 992 999	Batavia
+T9	Person 1051 1062	Ernst Brein
+T10	Organization 1088 1096	E: Comp:
+T11	Person 1191 1212	Jan Andries Duur Koop
+T12	Men 1184 1190	Heeren
+T13	Person 1247 1262	Abraham Walkard
+T14	Organization 1330 1348	Chineese korpitaal
+#3	AnnotatorNotes T14	Chineese Hospitaal
+T15	Indigenous 1330 1348	Chineese korpitaal

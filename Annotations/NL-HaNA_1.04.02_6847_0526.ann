@@ -1,22 +1,15 @@
-T1	Men 149 152	M„r
 T2	GPE 132 139	Batavia
 T3	Person 153 164;165 168;169 173	Petrijs van Der Dorm
-T4	Men 174 190	Aavocaat fiscaal
-R1	Is Arg1:T3 Arg2:T4	
 T5	GPE 195 211	Nederlands india
-T7	Men 295 303	orgamnst
 T8	Person 333 359	Johanna Geertruida Lahaije
 T9	Women 360 370	huijsvrouw
 R3	Is Arg1:T8 Arg2:T9	
 T10	Person 375 396	Assuirus van den Berg
-T11	Men 398 417;418 429	Commandeur en Equi„ pagiemeeste
-R4	Is Arg1:T10 Arg2:T11	
 T12	Person 456 470	Andries Maijte
-T13	Men 471 486	quartiermeester
-R5	Is Arg1:T12 Arg2:T13	
 T6	Person 281 294	Johannes vonk
-R2	Is Arg1:T6 Arg2:T7	
 T14	Person 966 989;990 995	Iohannes Vonken Andries Mante
 T15	Organization 1169 1210	nederlandsche oost indische maatschappije
 T16	Person 1720 1749	Sohatdg antreijda de La haije
 #1	AnnotatorNotes T16	Johanna Geertruida Lahaije
+T1	Men 149 152	M„r
+R1	Is Arg1:T3 Arg2:T1	

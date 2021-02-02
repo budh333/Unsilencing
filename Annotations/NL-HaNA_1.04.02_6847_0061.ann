@@ -1,8 +1,6 @@
 T1	Person 631 655;656 668	Ian Carelszen Zaelitbra„ „ham Simanoz
 T2	Person 805 815	D: V: haak
-T3	Unclear_entity 971 989	28: Iunij A:o 1769
 T4	Person 1018 1039	Jacob Adolff ver Mehr
-T5	Unclear_entity 1062 1076	31: Maart 1769
 T6	Person 1115 1130	Egbert Blomhert
 T8	GPE 1210 1215	Javra
 T9	Person 1265 1274;1275 1276;1277 1291	Exs Jacob „ Adoiz van Bena
@@ -10,23 +8,21 @@ T10	GPE 1343 1350	malacca
 T11	Indigenous 1827 1831;1832 1839	sla„ verrije
 T12	Indigenous 1879 1892	lijf eijgenen
 T13	Person 1903 1921	maart van Sumbanwa
-T14	Men 1925 1929	sijn
 T15	Women 1930 1933	wij
 T16	Person 1936 1952;1953 1956	Tsindra van boe„ gis
 T17	Person 1970 1990	Rosina van maccasser
 T18	Person 1992 2009	Jasson van boegis
-T19	Men 2014 2018	sijn
 T20	Women 2019 2024	wijff
 T21	Person 2025 2044	manies van Ternaten
 R2	Is Arg1:T21 Arg2:T20	
 R3	Is Arg1:T21 Arg2:T11	
 R4	Is Arg1:T21 Arg2:T12	
-R5	Is Arg1:T18 Arg2:T19	
 R6	Is Arg1:T18 Arg2:T11	
 R7	Is Arg1:T18 Arg2:T12	
 R8	Is Arg1:T17 Arg2:T15	
 R9	Is Arg1:T17 Arg2:T11	
 R10	Is Arg1:T16 Arg2:T11	
-R11	Is Arg1:T13 Arg2:T14	
 R12	Is Arg1:T13 Arg2:T12	
 R13	Is Arg1:T13 Arg2:T11	
+T7	Men 1111 1114	m:r
+R1	Is Arg1:T6 Arg2:T7	

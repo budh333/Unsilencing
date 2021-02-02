@@ -5,16 +5,13 @@ T3	GPE 199 207	Ternaten
 T4	Men 213 217	heer
 T5	Person 218 234	Ian arend Meijer
 R2	Is Arg1:T5 Arg2:T4	
-T6	Unclear_entity 374 389	12: Julij 1743:
 T7	Person 405 423	Joh:s van visclier
 T8	GPE 855 863	Iaccatra
 T9	Person 890 896;897 915	Johan„ nes Ezechiel Felix
 T10	Person 918 939	Panlus Nicolaas cleng
 T11	GPE 1229 1236	batavia
-T12	Unclear_entity 1256 1273	4:' Januarij 1769
 T13	Person 1305 1325	Peterm van der Werth
 T14	Person 1326 1333	Hermanu
-T15	Unclear_entity 1349 1366	13: December 1768
 T17	Person 1421 1442	Pieter Willem Lammens
 T18	GPE 1487 1503	nederlands india
 T19	GPE 1539 1546	batavia

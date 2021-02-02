@@ -1,9 +1,7 @@
 T1	Person 39 72	Johan Gerad Vietoher van Gaerheik
 T2	Person 73 88	Hendrik Harzing
 T3	Person 165 181	Hermanus verkamp
-T4	Organization 316 333	Raad van Justitie
+T4	Organization 306 333	den agtb: Raad van Justitie
 T5	GPE 347 363	Casteels batavia
 T6	Person 412 427	G: J: Welgevare
-T7	Men 0 8	schipper
-R1	Is Arg1:T2 Arg2:T7	
-#1	AnnotatorNotes T1	Belongs on other page
+#1	AnnotatorNotes T1	Border issue: Belongs on other page

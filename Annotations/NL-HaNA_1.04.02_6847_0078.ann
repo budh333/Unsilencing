@@ -7,4 +7,5 @@ T4	Person 768 785	Jan Fred:k Freese
 T5	Person 2241 2252	danrd Jansz
 T6	Person 2259 2264;2265 2274	Mhnau Claarbout
 T7	GPE 2534 2541	batavia
-T8	Unclear_entity 2558 2572	30: aug:o 1769
+T9	Men 762 767	mons:
+R3	Is Arg1:T4 Arg2:T9	

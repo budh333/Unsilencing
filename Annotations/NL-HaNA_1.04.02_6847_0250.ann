@@ -5,9 +5,8 @@ T3	Number 767 769	13
 T4	Person 55 64	getuijgen
 T5	Person 798 820	Joan Adriaan Westplate
 T6	Men 789 792	oom
-T7	Person 587 593	ouders
-T8	Person 597 605	kinderen
-#1	AnnotatorNotes T8	It's actually multiple unnamed persons, do we still want to identify them as such?
+T7	Group 587 593	ouders
+T8	Group 597 605	kinderen
 #2	AnnotatorNotes T3	Age, I can not yet make a relation 
 T10	Person 73 76	mij
 R3	Is Arg1:T5 Arg2:T6	

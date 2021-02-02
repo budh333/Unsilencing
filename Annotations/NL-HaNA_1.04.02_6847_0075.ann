@@ -1,5 +1,4 @@
 T1	Person 74 101	Christiaan Perdinant Cramer
-T2	Unclear_entity 115 133	14:' November 1770
 T3	Men 156 159	M:r
 T4	Person 160 175	Herman Scheltus
 R1	Is Arg1:T4 Arg2:T3	
@@ -20,3 +19,5 @@ T14	GPE 1642 1649	Alkmaar
 T15	Men 2037 2044	zoontje
 T16	Person 2045 2054;2055 2070	Lambertus Gerardus Cramer
 R6	Is Arg1:T16 Arg2:T15	
+T17	Men 1609 1613	heer
+R7	Is Arg1:T13 Arg2:T17	

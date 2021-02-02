@@ -1,7 +1,6 @@
 T1	Person 500 517	Lanke van Coegies
 #1	AnnotatorNotes T1	moet zijn Lanko van Boegis, lijfeigene, slaaf
 T2	Person 550 565	Patra van Balij
-#2	AnnotatorNotes T2	slaaf
 T3	Person 631 647	Lanko van Boegja
 #3	AnnotatorNotes T3	Lanko van Boegis
 T4	Person 527 534;535 546	malatie van Batavia
@@ -54,3 +53,5 @@ R10	Is Arg1:T10 Arg2:T37
 R11	Is Arg1:T10 Arg2:T35	
 R12	Is Arg1:T15 Arg2:T22	
 R13	Is Arg1:T15 Arg2:T16	
+R14	Is Arg1:T4 Arg2:T33	
+R15	Is Arg1:T2 Arg2:T33	

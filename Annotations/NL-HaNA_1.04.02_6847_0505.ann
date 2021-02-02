@@ -11,15 +11,8 @@ T15	Group 2227 2277	de gezamentlijke kinderen van Sillos van den Bergh
 T16	Person 1949 1955;1956 1969	Barend van den Bergh
 T17	Men 1941 1948	de heer
 R1	Is Arg1:T16 Arg2:T17	
-T18	Person 2117 2128	van Barteld
-T19	Men 2129 2137	wilminik
-R2	Is Arg1:T18 Arg2:T19	
-T20	Men 280 324	de wel Ed:e gestr Heer en Heeren Comparanten
-T21	Men 384 404	Ed„e gestren Edelens
-T22	Men 629 634;635 651	Edele gestr en Edelens
+T18	Person 2117 2137	van Barteld wilminik
 T23	Person 902 919	M Egbert Blomhert
-T24	Men 894 901	notaris
-R3	Is Arg1:T23 Arg2:T24	
 T25	Indigenous 1142 1150	slafsche
 T26	Indigenous 1213 1223	lyfeigenen
 T28	GPE 1397 1404	batavia
@@ -42,3 +35,5 @@ R9	Is Arg1:T10 Arg2:T32
 R10	Is Arg1:T10 Arg2:T30	
 T33	GPE 1616 1623	Amboina
 T34	Indigenous 1627 1641	haere kinderen
+T19	Person 2257 2277	Sillos van den Bergh
+T20	GPE 2291 2295	zwol

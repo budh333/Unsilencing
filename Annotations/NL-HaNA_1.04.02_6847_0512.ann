@@ -2,17 +2,7 @@ T1	GPE 165 174	Amsterdam
 T2	Indigenous 484 496	LijfEijgenen
 T3	Person 1965 1972;1973 1988	T Prael Abraham Simonsz
 T4	Person 1993 2019	Marcus Bartholomeus Fransz
-T5	Men 2020 2029	Clercquen
-R1	Is Arg1:T3 Arg2:T5	
-R2	Is Arg1:T4 Arg2:T5	
 T6	Person 2174 2189	A: C: Verspijck
-T7	Men 2190 2197	notaris
-R3	Is Arg1:T6 Arg2:T7	
 T8	GPE 2342 2349	Batavia
-T9	Person 2400 2414	C: P„ sevrinff
 T10	Men 2295 2301	Heeren
-T11	Men 2302 2315	weesmeesteren
-T12	Men 2148 2156	Attestor
-T13	Men 1128 1137	Executeur
 T14	Men 340 349	testateur
-T15	Men 1337 1354	Haer hoog Edelens

@@ -16,3 +16,5 @@ T14	Person 701 706;707 710	balie Llo
 T15	GPE 718 727	Maccasser
 T16	GPE 701 706	balie
 T17	GPE 689 696	batavia
+T7	Men 515 520	d’ E:
+R2	Is Arg1:T6 Arg2:T7	

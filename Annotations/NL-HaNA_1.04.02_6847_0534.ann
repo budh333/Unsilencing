@@ -7,11 +7,7 @@ T5	Men 730 750	geadopteerde zoontje
 T6	Person 751 767	Hendrik Lodewijk
 R2	Is Arg1:T6 Arg2:T5	
 T7	Person 976 992	Anthonij Neuweld
-T8	Men 993 1000	Koopman
-R3	Is Arg1:T7 Arg2:T8	
 T9	Person 1047 1055;1056 1066	Cornelis de Keijser
-T10	Men 1068 1079	weesmeester
-R4	Is Arg1:T9 Arg2:T10	
 T11	Men 1294 1301	zoontje
 T12	Person 1551 1566	E„s Nieuwvelden
 T13	Person 1964 1983;1984 1992	Anthonij Nieuweld - Cornelis

@@ -14,3 +14,5 @@ T14	Women 1661 1669	mevrouwe
 T15	Person 1670 1686;1688 1700	Clara geertruij„ da de Lahaye
 R2	Is Arg1:T15 Arg2:T14	
 T16	GPE 1991 1998	batavia
+T6	Men 1192 1195	m:r
+R1	Is Arg1:T7 Arg2:T6	

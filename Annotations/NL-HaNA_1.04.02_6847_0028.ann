@@ -17,3 +17,5 @@ T13	GPE 571 582	amstveromme
 T14	Person 1778 1795	Iohannes Simnonsz
 T15	Person 1799 1817	Lanrenha Anthonies
 T16	GPE 2474 2481	batavia
+T11	Men 527 530	M:r
+R4	Is Arg1:T12 Arg2:T11	

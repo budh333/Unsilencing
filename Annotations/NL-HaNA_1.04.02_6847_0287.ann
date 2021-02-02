@@ -6,9 +6,7 @@ R1	Is Arg1:T1 Arg2:T4
 R2	Is Arg1:T1 Arg2:T3	
 R3	Is Arg1:T1 Arg2:T2	
 T5	Men 281 292;293 297	den wel Ed: Heer
-T6	Men 301 304	M„r
 T7	Person 305 322	Johannes Hooreman
-R4	Is Arg1:T7 Arg2:T6	
 R5	Is Arg1:T7 Arg2:T5	
 T8	GPE 343 353	Rijs„
 wijk
@@ -37,5 +35,7 @@ T28	Men 2091 2115	Den WelEdele Gestr: Heer
 R10	Is Arg1:T22 Arg2:T21	
 R11	Is Arg1:T24 Arg2:T28	
 #1	AnnotatorNotes T22	Petrus Albertus van der Parra
-T27	Men 2314 2326	onderkoopman
-R9	Is Arg1:T26 Arg2:T27	
+T6	Men 301 304	M„r
+R4	Is Arg1:T7 Arg2:T6	
+T29	Men 2290 2293	M„r
+R12	Is Arg1:T26 Arg2:T29	

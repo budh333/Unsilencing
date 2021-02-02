@@ -3,14 +3,9 @@ T2	GPE 604 613	Amsterdam
 T3	Person 1401 1416	Laurens Tallans
 T4	Person 1572 1577;1578 1585	Suva, Andries
 T5	Person 1589 1604	Willem Salomons
-T6	Men 1605 1615	Clercqueen
-R1	Is Arg1:T4 Arg2:T6	
-R2	Is Arg1:T5 Arg2:T6	
 T7	Person 1648 1657	M Welborn
 T8	Person 1678 1689	L=s Pallams
 T9	Person 1690 1703	L„a Andriesen
 T10	Person 1704 1713	Wejalomms
 *	Alias T10 T5
 T11	Person 1928 1940	A„n scheltus
-T12	Men 1941 1948	notaris
-R3	Is Arg1:T11 Arg2:T12	

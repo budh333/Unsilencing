@@ -1,5 +1,4 @@
 T1	Person 90 105	Benjamin Heynen
-T2	Unclear_entity 120 136	10: october 1768
 T3	GPE 250 266	nederlands Jonra
 T4	GPE 294 301	batmera
 T5	Men 360 364	heer
@@ -24,3 +23,7 @@ R3	Is Arg1:T6 Arg2:T5
 #1	AnnotatorNotes T9	Last name: Heynen
 #2	AnnotatorNotes T10	Last name: Heynen
 #3	AnnotatorNotes T11	Last name: Heynen
+T14	Men 1274 1276	dE
+R4	Is Arg1:T13 Arg2:T14	
+T15	Men 2320 2323	dE:
+R5	Is Arg1:T23 Arg2:T15	

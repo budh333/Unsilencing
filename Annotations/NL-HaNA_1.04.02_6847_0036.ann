@@ -36,3 +36,5 @@ R10	Is Arg1:T27 Arg2:T20
 R11	Is Arg1:T23 Arg2:T20	
 R12	Is Arg1:T21 Arg2:T20	
 R13	Is Arg1:T25 Arg2:T20	
+T22	Women 500 510	testatrice
+R14	Is Arg1:T4 Arg2:T22	

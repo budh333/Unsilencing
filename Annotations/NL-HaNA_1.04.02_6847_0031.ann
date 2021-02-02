@@ -6,3 +6,5 @@ T4	Person 410 422;423 431	Jan coenraad Peijlner
 R2	Is Arg1:T4 Arg2:T3	
 T5	Person 528 544;545 553	Andries Matthijs Freschel
 T6	GPE 1498 1507	Amsterdam
+T7	Men 521 527	mons:r
+R3	Is Arg1:T5 Arg2:T7	

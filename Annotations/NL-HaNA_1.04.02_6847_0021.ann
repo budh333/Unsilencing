@@ -6,12 +6,8 @@ T6	GPE 313 320	Batavia
 T7	Men 392 397	Heere
 T9	Person 402 422	Reimer Stapel Iunior
 R2	Is Arg1:T9 Arg2:T7	
-T10	Men 522 526	sijn
-R3	Is Arg1:T9 Arg2:T10	
 T11	Group 640 643	wij
 T12	Men 1947 1951	heer
-T13	Men 1251 1255	sijn
-T14	Men 1423 1427	sijn
 T15	Person 1952 1958;1959 1965	Reimer Stapel
 T16	GPE 2014 2023	Amsterdam
 T17	Women 2027 2033	vrouwe

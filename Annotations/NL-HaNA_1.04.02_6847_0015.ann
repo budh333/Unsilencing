@@ -8,7 +8,6 @@ T8	Women 459 464	wed:e
 T9	Person 476 504	Guillianr Gerard Franchimont
 T14	Men 1070 1075	voogd
 T15	Women 1080 1089	voogdesse
-T16	Unclear_entity 1112 1116	kend
 T17	Group 1120 1128	kinderen
 T18	Men 1790 1801	agt: heeren
 T19	Women 2189 2199	Testatrice
@@ -16,3 +15,6 @@ T23	Women 133 138;139 145	groot moeder
 T24	Women 277 287	testatrice
 T25	Number 2425 2429	drie
 T26	GPE 1868 1871;1872 1878	am„ Herdan
+T1	Men 31 40	testateur
+T3	Men 472 474	dE
+R3	Is Arg1:T9 Arg2:T3	

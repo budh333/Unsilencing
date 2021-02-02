@@ -2,7 +2,6 @@ T1	Men 117 120	m:r
 T2	Person 121 127;128 138	pieter Jacob Bert
 R1	Is Arg1:T2 Arg2:T1	
 T3	Person 347 362	Henderik Hiller
-T4	Unclear_entity 383 398	1 Maart No 1769
 T6	Person 424 439	Egbert Blomhert
 T7	GPE 482 498	nederlands indra
 T8	GPE 527 534	Batavia
@@ -45,3 +44,7 @@ T32	GPE 2392 2399	batavia
 T33	Organization 454 498	de Edele hooge regering van nederlands indra
 T34	GPE 273 280	Batavia
 T35	Person 328 334	Meijer
+T5	Men 420 423	M:r
+R2	Is Arg1:T6 Arg2:T5	
+T36	Men 579 581	dE
+R15	Is Arg1:T9 Arg2:T36	

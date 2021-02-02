@@ -7,3 +7,5 @@ T6	Women 1054 1072	natuurlijke dogter
 T7	GPE 1661 1669	Amstver:
 T8	Person 2839 2853	arons Bilsoork
 T9	Person 2857 2870	Joseph Plache
+T10	Men 669 672	dE:
+R1	Is Arg1:T5 Arg2:T10	

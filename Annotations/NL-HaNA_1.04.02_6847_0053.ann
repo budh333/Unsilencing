@@ -2,9 +2,10 @@ T1	Person 1575 1594	Johannes Laurenzzen
 T2	Person 1595 1603;1604 1618	Johannes Josias lodewik
 T3	Person 1763 1766;1767 1772	van Psaak
 T4	Person 1975 1993	Christiaan Kastens
-T5	Unclear_entity 2012 2025	9: Junij 1764
 T6	Person 2048 2065	Andries Jan Zalle
 T7	GPE 2142 2158	nederlands indra
 T8	GPE 2186 2193	Batavia
 T9	Person 2254 2279	Herman Christiaan Kassens
 T10	Person 2418 2439	Jan Coenraad Feijlner
+T11	Men 2415 2417	dE
+R1	Is Arg1:T10 Arg2:T11	

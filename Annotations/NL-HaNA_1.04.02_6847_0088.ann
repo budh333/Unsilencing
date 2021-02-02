@@ -20,3 +20,5 @@ T15	Person 1892 1899	Rosetta
 R6	Is Arg1:T15 Arg2:T13	
 R7	Is Arg1:T15 Arg2:T13	
 T16	Indigenous 2318 2331	LijffEijgenen
+T10	Men 228 231	DE:
+R8	Is Arg1:T3 Arg2:T10	

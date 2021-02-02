@@ -12,24 +12,16 @@ T15	Group 1900 1902;1903 1949	de kinderen van de heer Hendrik Jan van den Bergh
 T16	Group 2018 2062	de kinderen van de heer Barend van den Bergh
 T20	Person 1374 1379	klara
 T17	Men 101 108	broeder
-T18	Men 52 65	onderstuurman
-R7	Is Arg1:T1 Arg2:T18	
 T21	Men 777 782	Neeff
-T23	Men 826 838	onderkoopman
-R8	Is Arg1:T8 Arg2:T23	
 T24	Organization 855 861	E Comp
 T25	Men 1010 1014	zoon
 T26	Men 1308 1312	zoon
-T19	Men 560 564	Ed:s
 T22	GPE 988 997	nederland
 T2	Person 313 333	Jilles van den Bergh
 T5	Men 305 311	de hee
 R9	Is Arg1:T2 Arg2:T5	
 T12	Person 1823 1838	de heer Barteld
-T13	Unclear_entity 537 541	rd„s
 T28	Men 427 433	heeren
-T29	Men 1104 1114	testateurs
-T30	Men 949 958	testateur
-T31	Men 1199 1208	testateur
 T27	Person 1981 1987	Gerrit
 T32	Person 1991 2011	Barend van den Bergh
+T18	Men 807 809	dE

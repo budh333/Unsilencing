@@ -20,3 +20,8 @@ R4	Is Arg1:T17 Arg2:T11
 T18	Men 2192 2198	zwager
 T19	Person 2199 2205;2206 2219	Arnol„ dus Diederiks
 R5	Is Arg1:T19 Arg2:T18	
+T6	Men 1213 1216	dE:
+R1	Is Arg1:T9 Arg2:T6	
+T20	Men 443 447	heer
+R6	Is Arg1:T1 Arg2:T20	
+R7	Is Arg1:T2 Arg2:T20	

@@ -2,7 +2,6 @@ T1	Women 122 128	dogter
 T2	Person 129 147	harmelina catarina
 R1	Is Arg1:T2 Arg2:T1	
 T3	Number 163 167	vier
-T4	Men 262 265	hij
 T7	Women 429 434	haker
 T8	Women 573 579	Jnsf=m
 T9	Person 580 594	Anna magdalena
@@ -10,8 +9,6 @@ R4	Is Arg1:T9 Arg2:T8
 T10	Women 606 610	wed:
 T11	Person 615 624	Pan Jonas
 T12	Group 640 648	kinderen
-T13	Men 727 730	zyn
-R5	Is Arg1:T11 Arg2:T13	
 T14	Person 800 819	Harmelina Catharina
 T16	Men 1442 1447	mons:
 T17	Person 1448 1467	Cornelis de keijder

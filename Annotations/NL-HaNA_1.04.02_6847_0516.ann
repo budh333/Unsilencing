@@ -1,46 +1,26 @@
 T1	Person 0 16	M Ryk van Echten
 T2	GPE 17 24	Luijden
-#1	AnnotatorNotes T2	Leiden?
+#1	AnnotatorNotes T2	Leiden
 T3	Person 63 88	Christiaan litregt Kloege
-T4	Men 99 125;126 134	Clercq ter secratarije van Iustitie
-R1	Is Arg1:T3 Arg2:T4	
 T5	GPE 243 250	batavia
-T7	Men 265 275	boekhouder
 T6	Person 280 294	Rijx van Echte
 T8	Men 276 279	M„r
 R2	Is Arg1:T6 Arg2:T8	
-R3	Is Arg1:T6 Arg2:T7	
 T9	Person 464 484	Augustinus Everhandt
 T10	Men 460 463	S„r
-T11	Men 447 458	oppermeeste
 R4	Is Arg1:T9 Arg2:T10	
-R5	Is Arg1:T9 Arg2:T11	
 T12	GPE 583 590	batavia
 T13	GPE 760 767	batavia
 T14	Person 798 821	Assiterus van den bergh
 T15	Men 788 797	de heeren
-T16	Men 822 842	opperEquipagiemeeste
-T17	Person 847 872	Adriaan boesses koopmanen
 T18	GPE 895 902	Batavia
-T19	Men 873 883	secretaris
-R6	Is Arg1:T17 Arg2:T19	
 T20	Person 1156 1178	Assuerus van Den bergh
 T21	Men 1149 1155	heeren
 T22	Person 1182 1197	Adriaan Boesses
 *	Alias T14 T20
-T23	Men 1927 1943	beamptspersoonen
-T24	Unclear_entity 1893 1911	E Currator Adlites
-#2	AnnotatorNotes T24	Name?
-T25	Person 2336 2342;2343 2349	Johann Adolph
-#3	AnnotatorNotes T25	Surname - Storm
+T25	Person 2336 2342;2343 2349;2370 2375	Johann Adolph Storm
 T26	Person 2353 2375	Henricus Iacobus Storm
-T27	Men 2326 2335	Clercquen
-R7	Is Arg1:T25 Arg2:T27	
-R8	Is Arg1:T26 Arg2:T27	
 T28	Person 2540 2551	C L: Kloege
-T29	Men 2552 2563	gesw Clercq
-R9	Is Arg1:T28 Arg2:T29	
 T30	Person 2768 2780	C: P Severin
 T31	GPE 2713 2720	Batavia
-T32	Men 2675 2688	weesmeesteren
-R10	Is Arg1:T30 Arg2:T32	
+T4	Person 847 862	Adriaan boesses

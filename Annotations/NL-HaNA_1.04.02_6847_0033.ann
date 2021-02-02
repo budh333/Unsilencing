@@ -19,3 +19,5 @@ T16	Person 1741 1754	Jan Schrender
 T17	GPE 1768 1784	nederlands india
 T18	Person 1788 1815	Clara geertruyda De lahaije
 R5	Is Arg1:T18 Arg2:T8	
+T1	Men 87 90	M:r
+R1	Is Arg1:T2 Arg2:T1	

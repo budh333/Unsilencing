@@ -2,9 +2,7 @@ T2	Person 331 346	Abraham Alomons
 T3	Person 350 366	Arnoldus Iacobsz
 T4	Person 511 519	Blomhert
 T5	GPE 648 655	Batavia
-T6	Unclear_entity 673 685	7: 7ber 1768
 T7	Person 718 730	Tjank Cramer
-T8	Unclear_entity 751 767	9: December 1763
 T10	Person 790 811	andres Jan Zalle nots
 T9	GPE 936 943	batavia
 T11	Person 949 957	Wicolaas
@@ -14,3 +12,5 @@ T15	Person 1631 1637;1638 1652	Ebbaed Eijko Brankman
 R1	Is Arg1:T15 Arg2:T14	
 T17	Person 0 8	Nicohaus
 T1	Number 735 736	4
+T13	Men 1001 1005	mons
+R2	Is Arg1:T12 Arg2:T13	

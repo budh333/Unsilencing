@@ -5,7 +5,6 @@ T4	Men 178 181	M„s
 R1	Is Arg1:T3 Arg2:T4	
 T5	Person 194 203	knijpern.
 T6	Men 190 193	1„e
-R2	Is Arg1:T5 Arg2:T6	
 #1	AnnotatorNotes T5	Margin notes, name is not clear Knijpens?
 T7	Person 1357 1378	Passere, van Mandhaak
 T8	Person 1383 1404	Cupido, van Mallabaar
@@ -19,3 +18,4 @@ T15	Organization 2525 2539;2540 2564	Eerw: Collegie van Heeren Weesmeesteren
 T13	Indigenous 1334 1348	slaave Iongens
 R5	Is Arg1:T8 Arg2:T13	
 R6	Is Arg1:T7 Arg2:T13	
+R2	Is Arg1:T5 Arg2:T6	

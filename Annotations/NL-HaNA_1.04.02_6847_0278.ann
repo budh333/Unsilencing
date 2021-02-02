@@ -10,6 +10,7 @@ T7	Men 1844 1851;1852 1876	Den wel Edele vestrenge Heer M„r
 R3	Is Arg1:T6 Arg2:T7	
 T8	Organization 1919 1944	Raad van Nederlands India
 T9	GPE 1928 1944	Nederlands India
-T10	Men 1949 1958;1959 1963	den E: E: Heer
 T11	Person 1964 1987	Reijnier van Vlissingen
+T10	Men 1949 1963	den E: E:
+Heer
 R4	Is Arg1:T11 Arg2:T10	

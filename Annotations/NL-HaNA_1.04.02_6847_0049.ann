@@ -12,3 +12,5 @@ T11	Women 875 882	mepst=m
 T12	Person 883 904	Johanna menia rotgers
 T13	Women 1000 1006	Jnst=r
 R1	Is Arg1:T12 Arg2:T11	
+T5	Men 595 598	m:r
+R2	Is Arg1:T6 Arg2:T5	

@@ -1,24 +1,15 @@
 T1	Person 0 16	A: van den Bergh
 T3	Person 70 85	Heeman Scheltus
-T4	Men 87 99	notaris pubt
-R2	Is Arg1:T3 Arg2:T4	
 T5	Organization 133 139;140 151	nedre„ lanas india
 T6	GPE 179 186	Batavia
 T7	Person 264 279	Pieter Haksteen
-T8	Men 259 263	hier
+T8	Men 234 263	den
+Wel Edele Gestrengen hier
 R3	Is Arg1:T7 Arg2:T8	
-T9	Men 280 293	Raad ordinair
-R4	Is Arg1:T7 Arg2:T9	
-T10	Organization 298 315	nederlands indies
+T10	GPE 298 315	nederlands indies
 T11	Person 408 424	Jasparus Haetman
-T12	Men 426 433	koopman
-R5	Is Arg1:T11 Arg2:T12	
 T13	Person 481 504	Pieter Iosias van waerd
-T14	Men 505 512	koopman
-R6	Is Arg1:T13 Arg2:T14	
 T15	Person 536 551	hendrik Brugman
-T16	Men 552 564	onderkoopman
-R7	Is Arg1:T15 Arg2:T16	
 T17	Men 792 796	heer
 T18	Person 797 819	Asjucrus van den bergh
 R8	Is Arg1:T18 Arg2:T17	
@@ -32,13 +23,11 @@ T23	Person 1202 1215	van den Bergh
 T24	Men 1197 1201	hier
 R11	Is Arg1:T23 Arg2:T24	
 T25	Person 1922 1930	Blompert
-T26	Men 1914 1921	notaris
-R12	Is Arg1:T25 Arg2:T26	
 T27	Person 2056 2071	Hendrik Brugman
 T28	Men 2048 2055	de Heer
 R13	Is Arg1:T27 Arg2:T28	
-T29	Men 2276 2285	Timmerman
 T30	Person 2286 2308	Jan Christiaan Nijboer
-R14	Is Arg1:T30 Arg2:T29	
-T31	Unclear_entity 2349 2374	Lutters Tjak voor Gedaane
-#1	AnnotatorNotes T31	Group of people?
+T2	Person 2349 2361	Lutters Tjak
+T4	Person 2440 2451	Luttee Tsak
+T9	Men 234 237;238 263	den Wel Edele Gestrengen hier
+R1	Is Arg1:T7 Arg2:T9	

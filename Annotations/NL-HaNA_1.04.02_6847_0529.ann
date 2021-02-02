@@ -1,20 +1,12 @@
 T1	Person 223 253	Johanna Gertritijda De Pahaije
 T2	Person 767 797	Johanna Geertruijda De Lahaijs
 T3	Person 830 853	Commandeur van den Berg
-T4	Men 861 864	hij
 T5	Person 865 888	Commandeur van den Berg
-R1	Is Arg1:T5 Arg2:T4	
 T7	Person 954 984	Johanna Geertruijda De Lahaije
 T8	Person 1090 1114	Commandeur van den bergh
-T9	Men 1086 1089	hij
-R3	Is Arg1:T8 Arg2:T9	
 T11	Person 1228 1234;1235 1260	Johan„ „na Geertruida De Lahaije
 T12	Person 1323 1347	Commandeur van den bergh
-T13	Men 1319 1322	hij
-R5	Is Arg1:T12 Arg2:T13	
 T15	Person 1411 1440	Johanna geextruida d’ sahaije
-T16	Men 1540 1550	Commandeur
 T17	Person 1772 1795	commandeur van den berg
-T18	Men 1953 1963	Commandeur
 T19	Person 2096 2118;2119 2126	Iohanna geertruijda da Lahaije
 T22	Person 2259 2266;2267 2288	Johanna guertruijda dizahaije

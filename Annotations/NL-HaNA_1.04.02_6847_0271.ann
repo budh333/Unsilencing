@@ -12,8 +12,6 @@ T9	Person 512 525	Aartje van Os
 T10	Women 504 511	suester
 R3	Is Arg1:T9 Arg2:T10	
 T11	Person 565 577;578 586	Georgius Van Adrichem
-T12	Men 554 564	Eerw: Heer
-R4	Is Arg1:T11 Arg2:T12	
 T13	GPE 601 612	S=t Maarten
 T14	Women 645 651	Suster
 T15	Person 652 670	Geertruijda van Os
@@ -27,3 +25,5 @@ T19	Person 1239 1253	Pieter Almenum
 T20	Person 1570 1582	Dirk verweij
 T21	Person 1590 1605	Willem Verduijm
 T22	Person 1622 1625;1626 1629	Am„ dam
+T12	Men 546 564	den wel Eerw: Heer
+R4	Is Arg1:T11 Arg2:T12	

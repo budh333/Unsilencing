@@ -3,3 +3,5 @@ T3	Indigenous 1352 1358	slaven
 T4	Women 1363 1372	slavinnen
 T5	Indigenous 1363 1372	slavinnen
 T6	Person 2632 2639	Hendrik
+T1	Men 302 309	dE: M:r
+R1	Is Arg1:T2 Arg2:T1	

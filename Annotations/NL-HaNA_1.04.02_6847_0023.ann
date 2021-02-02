@@ -1,11 +1,9 @@
 T1	Person 1061 1073	Pieter Arons
-T2	Unclear_entity 1074 1081	De moor
 T3	Indigenous 1074 1081	De moor
-T4	Unclear_entity 1082 1090	d’ Jonge
+T4	Men 1082 1090	d’ Jonge
 T5	Person 1094 1105;1106 1127	Sijmon Tho„ mas Crrelsz Clercquen
 T6	Person 1281 1299	Johan van Visvliet
 T7	Person 1497 1511	Reynier Stapel
-T8	Unclear_entity 1523 1539	15: october 1768
 T9	Person 1565 1581	wiggert wargaren
 T10	GPE 1620 1627	Holland
 T11	GPE 1659 1666;1667 1672	nederl: india
@@ -16,7 +14,10 @@ R2	Is Arg1:T15 Arg2:T13
 T16	Group 2089 2095	slaven
 T17	Indigenous 2089 2095	slaven
 T18	Number 2084 2088	twee
-T19	Unclear_entity 2117 2143	boezonen Casar van boegees
+T19	Person 2126 2143	Casar van boegees
 T20	Number 2168 2172	Twee
 T21	Number 2173 2180	honderd
 T22	Number 2206 2218	vier hondert
+T2	Person 2106 2125	galant van boezonen
+R1	Is Arg1:T19 Arg2:T16	
+R3	Is Arg1:T2 Arg2:T17	

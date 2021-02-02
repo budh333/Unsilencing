@@ -2,9 +2,6 @@ T1	Person 0 7;8 16	Abraham Abeleven
 T3	Organization 103 115;116 148	debaele hoge regeeringe van nederslands India
 T4	GPE 162 184	binnen de stad Batavia
 T5	Person 248 255;256 264	Abraham Abeleven
-T6	Men 265 279	oud gouverneur
-T7	Unclear_entity 280 289	&amp;amp;
-R1	Is Arg1:T5 Arg2:T6	
 T8	Men 230 247	De wel Edele Heer
 R2	Is Arg1:T5 Arg2:T8	
 T9	Indigenous 874 886	lijfeijgenen
@@ -15,15 +12,11 @@ R3	Is Arg1:T14 Arg2:T13
 R4	Is Arg1:T14 Arg2:T15	
 T16	Men 1554 1558	zoon
 T17	Person 1566 1585	Samuel Ian Ableeven
-T18	Men 1559 1565	DE M„r
-T19	Men 1600 1632;1633 1649	koopman en Eerste administrateur in de pakhuijsen
-R5	Is Arg1:T17 Arg2:T19	
 T20	Indigenous 1720 1737	de vrije Christen
 T21	Women 1738 1743	Vrouw
 T23	Indigenous 2139 2151	lijfeijgenen
 T24	Person 2163 2171	AChilles
 R8	Is Arg1:T24 Arg2:T23	
-T25	Men 290 312	Directeur van Ternaten
 T10	Person 897 916	Ionker van bengalen
 T11	Person 918 938	Tamiela van mandhaar
 T12	Person 942 946;947 958	masi van Sumbawa
@@ -32,5 +25,5 @@ R6	Is Arg1:T22 Arg2:T21
 R7	Is Arg1:T22 Arg2:T20	
 #1	AnnotatorNotes T24	Surname - van Balij
 T2	Person 68 84	A Eoben plomkert
-T26	Men 85 98	mntens publig
-R9	Is Arg1:T2 Arg2:T26	
+T6	Men 1559 1565	DE M„r
+R1	Is Arg1:T17 Arg2:T6	

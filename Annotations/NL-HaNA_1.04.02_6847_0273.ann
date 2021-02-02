@@ -9,6 +9,4 @@ T8	Person 1180 1190;1191 1198	Olinda van boegies
 T10	Women 1164 1171	lavenne
 R1	Is Arg1:T8 Arg2:T10	
 T11	Person 1507 1523	Cornelis Domburg
-T12	Men 1498 1506	DE. Heer
-R2	Is Arg1:T11 Arg2:T12	
 T9	Indigenous 1164 1171	lavenne

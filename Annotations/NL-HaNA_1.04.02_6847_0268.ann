@@ -3,12 +3,10 @@ T2	Person 149 161	David Jansz:
 T3	Person 167 193	Constantijn Cops de, Ionge
 T4	Person 349 363	Leendert Rolff
 T5	Person 485 499	Leendert Roltj
-*	Alias T5 T4
 T6	Person 607 622	Nia van Batavia
 T7	GPE 615 622	Batavia
 T9	Indigenous 589 593;594 598	boor ling
 R1	Is Arg1:T6 Arg2:T9	
-#1	AnnotatorNotes T9	It is not the right tag, but it's definitly a term of interest
 T10	GPE 720 727	Balavia
 T11	Person 841 856	Egbert Blomhert
 T12	GPE 943 958	de stad Batavia

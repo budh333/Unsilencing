@@ -1,9 +1,7 @@
 T1	Person 624 648;649 653	Ian Carelszen Zaelitbra„ „ham
 T2	Person 654 661	Simanoz
 T3	Person 799 809	D: V: haak
-T4	Unclear_entity 967 986	28: Zijnij A:o 1769
 T5	Person 1015 1036	Jacob Adolff ver Mehr
-T6	Unclear_entity 1059 1073	31: Maart 1769
 T7	Person 1099 1114	Egbert Blomhert
 T9	GPE 1159 1175	nederlands india
 T10	GPE 1203 1206;1207 1212	ba„ favra
@@ -31,3 +29,5 @@ T21	Person 2024 2043	manies van Ternaten
 R12	Is Arg1:T21 Arg2:T20	
 R13	Is Arg1:T21 Arg2:T14	
 R14	Is Arg1:T21 Arg2:T14	
+T8	Men 1095 1098	m:r
+R1	Is Arg1:T7 Arg2:T8	

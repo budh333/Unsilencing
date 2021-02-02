@@ -2,3 +2,5 @@ T1	Person 134 150	P: van Lelijveld
 T2	GPE 212 219	Batavia
 T3	Person 0 32	Johan Lerad Ksscher van Gaesbeek
 #1	AnnotatorNotes T3	Border issue, from other page
+T4	Person 50 65	G: J: Welgevare
+T5	Person 256 261;262 271	G: I: Welgevare

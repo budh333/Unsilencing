@@ -1,20 +1,12 @@
 T1	Person 51 73	Iohannes van den Bergh
-T2	Men 75 82	notaris
-T3	GPE 102 121;122 138	hooge regeering van nederlands India
+T3	GPE 122 138	nederlands India
 T4	GPE 166 173	Batavia
-R1	Is Arg1:T1 Arg2:T2	
 T5	Person 223 244	Assuerus van den perg
-T6	Men 245 255	Commandeur
-R2	Is Arg1:T5 Arg2:T6	
 T7	Person 366 386;387 392	Jacob de Clercq Mar„ chand
 T8	Men 362 365	M„r
 R3	Is Arg1:T7 Arg2:T8	
-T10	Men 628 631	M„r
 T11	Person 632 650	Paulus van Lelweld
-T12	Men 654 656	M„
-R4	Is Arg1:T11 Arg2:T10	
 T13	Person 657 684	anthonij Cornelis verspijck
-R5	Is Arg1:T13 Arg2:T12	
 T9	GPE 739 746	batavia
 T14	Women 831 838	huijsv:
 T15	Person 839 846;847 868	Johanna Geertruida De Lahaije
@@ -24,11 +16,8 @@ T17	Person 2031 2051	Moses Simons Abraham
 T18	Men 2052 2056	zoon
 R7	Is Arg1:T17 Arg2:T18	
 T19	Person 2060 2070	Jan Carels
-T20	Men 2071 2077	Clercq
-R8	Is Arg1:T19 Arg2:T20	
 T21	Person 2212 2225	J: V: D: Berg
-T22	Men 2226 2241	notaris publicq
-R9	Is Arg1:T21 Arg2:T22	
 T23	Person 2257 2287	Johanna Geertruijda De Lahaije
 T24	Women 2297 2307	huijsvrouw
 R10	Is Arg1:T23 Arg2:T24	
+T2	Organization 93 121;122 138	d' Edele hooge regeering van nederlands India

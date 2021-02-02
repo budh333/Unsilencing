@@ -1,14 +1,10 @@
 T1	Person 0 11	Jan Molleer
 T2	Person 67 94	Anthonij Cornelis Verspijck
-T5	Men 95 100;101 108	not„s publicq
-R1	Is Arg1:T2 Arg2:T5	
 T3	Organization 113 158	de Edele hooge regeering van nederlands India
 T6	GPE 172 186;187 194	binnen de stad Batavia
 T7	Person 247 250;251 257	Ian Moller
 T8	Men 240 245	Den E
 R3	Is Arg1:T7 Arg2:T8	
-T9	Men 258 293	adsistent ten dienste der Ed Comp:s
-R4	Is Arg1:T7 Arg2:T9	
 T10	Unclear_entity 399 401	E:
 T11	Person 831 834;835 871	Afr Iohannes Nicolaas Bestbier Pabcureur
 T12	Men 824 829	den E
@@ -25,4 +21,3 @@ R8	Is Arg1:T17 Arg2:T16
 T19	GPE 1312 1321	Amsterdam
 T20	Person 1745 1768;1769 1777	E: M. Johannes Nicolaas Bestbier
 T21	Men 1483 1492	testateur
-T22	Men 1497 1506	Executeur

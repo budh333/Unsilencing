@@ -1,0 +1,23 @@
+T1	Person 28 36	Breukels
+T2	GPE 78 85	Batavia
+T3	Person 123 127	Brem
+T4	Organization 229 235;236 249	Heeren weesmestelren
+T5	Person 332 340	W: Laels
+T6	Organization 416 435	Heeren weermerteren
+#1	AnnotatorNotes T6	Heeren Weesmeesteren
+T7	Person 480 500	Jan Hendrik Suurkhop
+#2	AnnotatorNotes T7	Jan Hendrik Duurkoop
+T8	Person 504 519	Abraham Walkart
+T9	Person 590 600	Erngt Brem
+#3	AnnotatorNotes T9	Ernst Brem
+T10	Person 759 773	A: Hollenhagen
+T11	Person 859 874	Liendert Rolff,
+T12	Organization 903 939	Hooge Regeering van Neverlands India
+T13	GPE 968 975	Batavia
+T14	Person 1038 1049	Johan Meene
+T15	Men 1033 1037	Mons
+T16	Person 1811 1822;1823 1842	Anthon Berk „nar Meene Bherends
+#4	AnnotatorNotes T16	Anthon Bernhard Meene Berends
+T17	Person 1846 1866	Memmo Bherends Meene
+T18	Person 2235 2260	Jacobus Anthonij Beijvank
+T19	Organization 2478 2493;2494 2500	Heeren weesmer, „teren

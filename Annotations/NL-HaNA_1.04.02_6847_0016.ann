@@ -2,9 +2,7 @@ T1	Group 59 63	volk
 T3	Person 413 429	Abraham Salomons
 T4	Person 433 450	Hendrik Abrahamsz
 T5	Person 576 592	Eggbert Blomhert
-T7	Unclear_entity 729 743	13: 8bert 1768
 T8	Person 745 769	Marten Albregt Heynagtez
-T9	Unclear_entity 790 807	15: November 1768
 T11	Person 834 848	Egbert Blomher
 T13	GPE 894 911	nederlands Jordia
 T14	GPE 940 946	batera
@@ -21,5 +19,4 @@ T24	Number 1919 1923	twee
 T25	Group 1924 1931	slaeven
 T26	Indigenous 1924 1931	slaeven
 T29	Group 2135 2143	kinderen
-T2	Unclear_entity 995 999	mont
 R1	Is Arg1:T18 Arg2:T17	

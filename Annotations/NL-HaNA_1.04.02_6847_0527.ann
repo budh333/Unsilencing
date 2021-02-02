@@ -2,43 +2,34 @@ T1	Person 177 207	Johanna Geertruijdd De Lahaije
 T2	Person 408 427;428 438	Iahanna Heertruijda de Lahaije
 T3	GPE 519 526	Batavia
 T4	Men 583 595	mijne heeren
-T5	Men 596 599	M„r
 T6	Person 600 616	Geijsbertus Maas
-R1	Is Arg1:T6 Arg2:T5	
-T7	Men 620 623	M„r
 T8	Person 624 639	Iacob de Meijer
-R2	Is Arg1:T8 Arg2:T7	
 T9	Men 640 642	Mr
 T10	Person 643 651;652 670	Johannes Gabriel van Gehren
 R3	Is Arg1:T10 Arg2:T9	
-T11	Men 671 674	M„r
 T12	Person 675 693	Gearge Carel Falck
-R4	Is Arg1:T12 Arg2:T11	
-T13	Men 694 697	M„r
-T15	Men 718 721	M„r
 T16	Person 722 739	Theodorus Bergsma
-R5	Is Arg1:T16 Arg2:T15	
-T17	Men 741 744	M„r
 T18	Person 745 765	fredrik herman mulle
-R6	Is Arg1:T18 Arg2:T17	
-T19	Men 770 773	M=r
 T20	Person 774 791;792 801	Anthonij Cornelis verspijck
-R7	Is Arg1:T20 Arg2:T19	
 T21	GPE 858 865	Batavia
 T22	Person 1003 1008;1009 1019	G: I: welgevaare
-T23	Men 1020 1030	secretaris
-R8	Is Arg1:T22 Arg2:T23	
 T24	Person 1037 1048	G’Extraheer
 T25	GPE 1133 1140	Batavia
 T26	Person 1171 1181	C: Kartman
-T27	Men 1182 1193	Gesw Clercq
-R9	Is Arg1:T26 Arg2:T27	
 T28	Person 1582 1595	van den bergh
 T29	Person 1679 1692	van den Bergh
 T30	Person 1806 1835	Iohanna Geertruijda DeLahaije
 T31	Person 1874 1898	Commandeur van den Bergh
-T32	Men 1870 1873	hij
-R10	Is Arg1:T31 Arg2:T32	
 T34	Person 1969 1998	Johanna Geertruida De Lahaije
-T14	Person 705 717	van Leliveld
-R12	Is Arg1:T14 Arg2:T15	
+T5	Men 596 599	M„r
+R1	Is Arg1:T6 Arg2:T5	
+T7	Men 620 623	M„r
+R2	Is Arg1:T8 Arg2:T7	
+T11	Men 671 674	M„r
+R4	Is Arg1:T12 Arg2:T11	
+T13	Person 698 717	Pautus van Leliveld
+R5	Is Arg1:T13 Arg2:T9	
+R6	Is Arg1:T18 Arg2:T11	
+R7	Is Arg1:T18 Arg2:T11	
+R8	Is Arg1:T20 Arg2:T11	
+R9	Is Arg1:T16 Arg2:T11	

@@ -11,3 +11,5 @@ T8	Person 1033 1057;1058 1065	Anna Christina Elisabeth Schrade
 R3	Is Arg1:T8 Arg2:T7	
 T9	Person 1229 1261	Anna Christina Elisabeth schrade
 R4	Is Arg1:T9 Arg2:T7	
+T10	Men 520 523	DE:
+R5	Is Arg1:T1 Arg2:T10	

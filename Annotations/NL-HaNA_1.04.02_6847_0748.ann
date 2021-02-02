@@ -1,7 +1,7 @@
 T1	Person 0 16	Cornelis Griafel
 T2	Person 594 616	Israel Abraham Simonsz
 T3	Person 620 645	Abraham Johannes Pietersz
-T4	Person 796 807	C: verspijk
+T4	Person 793 807	A: C: verspijk
 T5	Women 877 887	Huijevrouw
 T6	Person 888 906	Elisabelh Hendriks
 T7	GPE 911 918	Batavia
@@ -12,7 +12,8 @@ T11	Women 1116 1125	Mejufrouw
 T12	Person 1136 1140;1141 1149	Kra„ „nendonk
 T13	Person 1063 1079	Pieter Haaksteen
 T14	Men 1058 1062	Heer
-T15	Men 442 447	Heere
+T15	Men 436 466	alleu Heere
+Regt ende Regteren
 T16	Women 983 989	hogter
 #1	AnnotatorNotes T16	dogter
 T17	GPE 1202 1209	Batavia
@@ -20,7 +21,7 @@ T18	Person 1248 1259	Hendrik Pop
 T19	Person 1318 1334	hermanu Schiltus
 T20	Organization 1363 1393	Regeering van Nederlands Jndia
 T21	GPE 1422 1429	Batavia
-T22	Men 1491 1495	Heer
+T22	Men 1477 1495	den Eerwaarde Heer
 T23	Person 1496 1511	Cornelis Griese
 T24	Organization 1551 1573	nedertuijsche gemeente
 T25	GPE 1632 1638	Padang
@@ -31,3 +32,13 @@ T29	Person 2206 2222	Hlaffje Johannis
 R1	Is Arg1:T29 Arg2:T28	
 T30	Indigenous 2124 2136	lijf ergenen
 T31	Person 2287 2305	Abraham Siwvalette
+R2	Is Arg1:T13 Arg2:T14	
+R3	Is Arg1:T9 Arg2:T16	
+R4	Is Arg1:T6 Arg2:T5	
+T32	Men 1315 1317	m:
+R5	Is Arg1:T19 Arg2:T32	
+R6	Is Arg1:T23 Arg2:T22	
+T33	Group 436 447;448 466	alleu Heere Regt ende Regteren
+R7	Is Arg1:T12 Arg2:T10	
+R8	Is Arg1:T12 Arg2:T11	
+T34	Indigenous 2189 2205	huijs inboorling

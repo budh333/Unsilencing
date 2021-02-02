@@ -3,3 +3,5 @@ T2	Person 532 549	Christoffel Kraft
 R1	Is Arg1:T2 Arg2:T1	
 T3	Men 894 901	broeder
 T4	Person 2450 2471	George Lodewijk Zeijl
+T5	Men 2441 2444	DE:
+R2	Is Arg1:T4 Arg2:T5	

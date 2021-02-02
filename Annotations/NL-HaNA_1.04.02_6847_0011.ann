@@ -3,8 +3,7 @@ T2	Person 362 370;371 377	bensamin Weynen
 T3	Men 357 361	heer
 T4	Group 871 879	Zinderen
 T5	Person 904 924	Anna magteld Heijnen
-T7	Unclear_entity 866 870	vier
-T8	Unclear_entity 120 136	10: october 1768
+T7	Number 866 870	vier
 R2	Is Arg1:T2 Arg2:T3	
 T10	GPE 292 299	batnera
 T11	Men 791 795	heer
@@ -33,3 +32,9 @@ R4	Is Arg1:T23 Arg2:T22
 R5	Is Arg1:T23 Arg2:T21	
 T6	Men 1781 1785	heer
 T9	Men 1786 1796	testateurs
+T15	Men 796 805	Testateur
+T17	Number 1061 1065	Twee
+T18	Number 103 104	1
+T25	Person 156 172	wiggert wargaren
+T27	GPE 417 436;437 439	nederdui Vshegemeen te
+T31	GPE 1317 1325	maleydse
