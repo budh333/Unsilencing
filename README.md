@@ -12,3 +12,19 @@ The VOC testaments can be downloaded via this [link](https://eur04.safelinks.pro
 - **Corpus**: this folder contains 1202 transcribed pages from the folder 6847
 - **Corpus_6848** contains all transcribed pages from folder 6848
 
+## Indexing!
+
+This is the main result of our project. This code collects all our BRAT annotations, extract list of terms used to describe men, women and indigenous peoples and createds and index found in that folder "qualifierbasedindex.xlsx"!
+
+## NER on Testaments
+
+In this folder one can find some code on creating a pipeline to perform NER on the testaments, and two indices created on the basis of NER. 
+
+### NER on Testaments Improvements 
+
+We explore feeding in corrections into our pipeline, to see if we can improve the results of the NER.
+
+### NER spaCy retraining
+
+Some code to retrain spaCy — needs more work.
+
