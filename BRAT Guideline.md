@@ -1,5 +1,5 @@
 Find our BRAT environment [here](https://brat.create.humanities.uva.nl/index.xhtml#/). 
-To login, contact [Mrinalini](m.luthra@uva.nl), she will provide you the login credentials.
+To login, contact Mrinalini: m.luthra@uva.nl, she will provide you the login credentials.
 
 The BRAT annotations were all made within bundle 6847 of the 1.04.02 inventory of the Dutch United East India Company (VOC) archive. The bundle 6847 encompasses 1202 pages of transcribed testaments. From which roughly 200 are annotated (see annotations folder).  
 
