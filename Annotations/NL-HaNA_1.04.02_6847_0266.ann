@@ -1,0 +1,20 @@
+T1	Person 2 21	Jacob Christoffelsz
+T2	Person 126 134;135 150	Anthonij van Helsdingens
+T4	GPE 584 591	Batavia
+T5	Person 631 656	J: G: Visser van Gaesbeek
+T6	Person 743 757	Leendert Holff
+T7	Organization 781 823	Edele Hooge Regeering van Nederlands India
+T8	GPE 850 862	Stad Batavia
+T9	Person 928 939;940 950	Iacob Chris „toffelsz:
+T10	Men 924 926	DE
+R2	Is Arg1:T9 Arg2:T10	
+T11	GPE 1029 1047	Rotterdammer poort
+T12	Person 1644 1652	Nieij Mi
+T14	Women 1638 1643	vrouw
+R3	Is Arg1:T12 Arg2:T14	
+T15	GPE 1628 1637	maleijtse
+T16	Person 1967 1980	Regina Thomas
+T13	Indigenous 1622 1643	vrije maleijtse vrouw
+R4	Is Arg1:T12 Arg2:T13	
+T3	Men 114 121	de Heer
+R1	Is Arg1:T2 Arg2:T3	

@@ -1,0 +1,17 @@
+T1	Person 1 11	duijneveld
+T2	Men 32 38	zoonen
+T3	Person 39 44	David
+R1	Is Arg1:T3 Arg2:T2	
+T4	Person 48 60;61 65	Hendrik Jaan Cois
+R2	Is Arg1:T4 Arg2:T2	
+T5	Men 91 102	schoon zoon
+T6	Person 103 116	Martin Mellin
+R3	Is Arg1:T6 Arg2:T5	
+T7	GPE 125 135	Nagapatnam
+T8	Women 435 441	dogter
+T9	Person 442 459	Cartharina Theode
+R4	Is Arg1:T9 Arg2:T8	
+T10	Women 590 596	dogter
+T11	Person 597 615	Catharina Theodora
+R5	Is Arg1:T11 Arg2:T10	
+T12	Indigenous 1757 1763	slaven

@@ -1,0 +1,12 @@
+T1	Person 0 14	Jan Nederbosch
+T2	GPE 151 158	Batavia
+T5	Organization 332 367;368 379	de Edele Hooge Regeering dan Neder„ lands India
+T6	GPE 401 414;415 418	de stad Bata„ via
+T7	Person 474 488	Jan Nederbosch
+T9	Person 532 549;550 553	Maria Helena Rit„ tek
+T10	Women 525 531	Iuff=r
+R3	Is Arg1:T9 Arg2:T10	
+T11	Organization 1017 1061	Gereformeerde
+burger weeshuijs tot Amsterdam
+T12	GPE 1052 1061	Amsterdam
+T3	Person 295 301	Egbert

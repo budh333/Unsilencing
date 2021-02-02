@@ -1,0 +1,41 @@
+T1	Person 422 438	Jan Barend Felix
+T2	Person 337 356	Johan George Fricke
+T3	Person 159 165;166 179	Paulai van Lelijveld
+T4	Men 155 158	M„r
+T5	Person 188 204	Joachim Wicherts
+T7	Organization 80 120;121 154	eeren Commissarissen uijt den agtb: raad van Justitie des Casteels Batavia
+T8	GPE 147 154	Batavia
+T9	Person 472 487	Crasmus Pieters
+T10	Person 571 584	C: A: de Soet
+T11	Person 629 644	Jacobus Hartman
+T12	Person 695 707	C: A: desoet
+*	Alias T12 T10
+#1	AnnotatorNotes T12	Same person, HTR misstake
+T13	Person 840 849	Moses ult
+T14	Person 1019 1028	Moses ult
+T15	Person 1395 1415	Maccasser v: boegies
+T17	Men 1383 1388	Jonge
+R3	Is Arg1:T15 Arg2:T17	
+T19	Person 1437 1450	Leo van balij
+T20	Person 1475 1490	Jason „ batavia
+T22	GPE 1483 1490	batavia
+T23	GPE 1445 1450	balij
+T24	GPE 1395 1404	Maccasser
+T25	Person 1451 1463	frans hakkee
+T26	Person 1361 1376	domingo andries
+T27	Person 1239 1251	van Lelijvel
+T28	Men 1229 1238	agtb: h=r
+R4	Is Arg1:T27 Arg2:T28	
+T29	Person 1106 1113	de soet
+T30	Person 1057 1072	Domingo andries
+T31	Person 789 798	Vogelpoot
+T32	Person 857 867	Heijde kes
+T33	Person 1714 1727	boeij guastos
+#2	AnnotatorNotes T33	Seems like a name not sure?
+T34	Organization 1558 1579	heeren Commissarissen
+T35	Men 324 335	der E: Comp
+R5	Is Arg1:T2 Arg2:T35	
+T36	Group 406 417	Crediteuren
+T37	Person 552 565	van Selijveld
+T38	Men 542 551	Agtb: h=r
+R6	Is Arg1:T37 Arg2:T38	

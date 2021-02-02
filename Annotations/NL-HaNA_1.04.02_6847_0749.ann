@@ -1,0 +1,65 @@
+T1	Women 169 178	Meuffrouw
+T2	Women 162 168	do ter
+#1	AnnotatorNotes T2	dogter
+T3	Person 179 185;186 199	Gesind Alida 1 Meijs
+#2	AnnotatorNotes T3	Gefina Alida Meijs
+T4	Women 200 210	Huijsvrouw
+T5	Person 224 239	Egbert Blumhert
+R1	Family Arg1:T3 Arg2:T5	
+T6	Indigenous 278 283	slaaf
+T7	Person 292 297	Jason
+R2	Is Arg1:T7 Arg2:T6	
+T8	Indigenous 334 342	slavinne
+T9	Women 334 342	slavinne
+T10	Person 343 351	Calistra
+R3	Is Arg1:T10 Arg2:T9	
+R4	Is Arg1:T10 Arg2:T8	
+T11	Person 410 418	Calistia
+R5	Is Arg1:T11 Arg2:T9	
+R6	Is Arg1:T11 Arg2:T8	
+T12	Men 542 546	zoon
+T13	Person 556 568	Willem Meije
+#3	AnnotatorNotes T13	Willem Meijs
+T14	Organization 621 629;630 638	Comploir generaal
+T15	Indigenous 642 645	slf
+#4	AnnotatorNotes T15	slaaf
+T16	Person 646 652	floris
+R7	Is Arg1:T16 Arg2:T15	
+T17	Women 661 665	wijf
+T18	Person 666 670	Siga
+R8	Family Arg1:T18 Arg2:T16	
+T19	Person 691 701	Cortunalus
+T20	Person 705 711	AsKaan
+R9	Family Arg1:T20 Arg2:T16	
+R10	Family Arg1:T20 Arg2:T18	
+R11	Family Arg1:T19 Arg2:T20	
+R12	Family Arg1:T19 Arg2:T16	
+R13	Family Arg1:T19 Arg2:T18	
+T21	Indigenous 720 725	Slaaf
+T22	Person 726 733	Barolij
+R14	Is Arg1:T22 Arg2:T21	
+T23	Person 967 978	Bela Griefe
+T24	Person 1004 1026	Jan Calhoen van Limlus
+#5	AnnotatorNotes T24	Jan Calkoen van Limburg
+R15	Family Arg1:T23 Arg2:T24	
+T25	GPE 1074 1082	Sumatras
+T26	GPE 1058 1070	Goelo Chincu
+T27	Women 1242 1252	Mejuffrouw
+T28	Person 1253 1271	Gesina Alida Meijs
+T29	Person 1285 1291;1292 1297	Willem Meije
+T30	Person 1292 1297	Meije
+#6	AnnotatorNotes T30	Meijs
+T31	Men 1508 1512	Heer
+T32	Women 1576 1582	Suster
+T33	Women 1583 1593	Mejuffrouw
+T34	Person 1594 1609	Ten Bila Griese
+#7	AnnotatorNotes T34	Ida Bela Griese
+T35	Person 2088 2103	Egbert Blomhert
+T36	Person 2115 2125;2126 2131	Dauid Jaan hruet
+#8	AnnotatorNotes T36	David Jan ....
+T37	Indigenous 2192 2200	Inlander
+T38	Men 2489 2495	Heeren
+T39	Organization 2496 2509	wegsmeesteren
+#9	AnnotatorNotes T39	weesmeesteren
+T40	Men 218 223	E: mH
+R16	Is Arg1:T5 Arg2:T40	

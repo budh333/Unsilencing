@@ -1,0 +1,13 @@
+T1	Person 524 530;531 543	Pieter an Ponningen
+T2	Women 600 610	huijsvrouw
+T3	Women 611 619	Mejuff:r
+T4	Person 620 644;645 653	Anna Christina Elisabeth Schrader
+R1	Is Arg1:T4 Arg2:T3	
+R2	Is Arg1:T4 Arg2:T2	
+T5	Men 831 834	m:e
+T6	Person 835 855	Pieter van Ponningen
+T7	Women 1022 1032	Huijsvrouw
+T8	Person 1033 1057;1058 1065	Anna Christina Elisabeth Schrade
+R3	Is Arg1:T8 Arg2:T7	
+T9	Person 1229 1261	Anna Christina Elisabeth schrade
+R4	Is Arg1:T9 Arg2:T7	

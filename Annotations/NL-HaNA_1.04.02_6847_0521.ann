@@ -1,0 +1,28 @@
+T1	Men 79 86	de heer
+T2	Person 87 102	Caparus Hartman
+R1	Is Arg1:T2 Arg2:T1	
+T3	Indigenous 242 248	slaaff
+T4	Person 249 256	Phaeton
+R2	Is Arg1:T4 Arg2:T3	
+T6	GPE 484 491	Batavia
+T7	Person 526 533;534 543	A: Van„ Den Bergh
+T8	Person 608 610;611 620	I: D: Haanen
+T9	Person 621 633	I:C: Nijboer
+T10	Person 819 835	Paulus Nicolaasz
+T11	Person 839 851;852 860	Louis Marcus Domingos
+T12	Men 862 871	Clercquen
+R3	Is Arg1:T10 Arg2:T12	
+T13	Person 1004 1015	H: Scheltus
+T14	Person 1210 1222	C P: Severin
+T15	Men 1223 1233	secretaris
+R4	Is Arg1:T14 Arg2:T15	
+T16	Person 1338 1362	Assieterus van den bergh
+T17	Men 1330 1337	De heer
+R5	Is Arg1:T16 Arg2:T17	
+T18	Women 1486 1496	huijsvrouw
+T19	Person 1497 1515;1516 1526	Johanna Geertruida DeLa haije
+T20	Women 1527 1538	gedaagdesse
+R6	Is Arg1:T19 Arg2:T20	
+T5	Women 266 270	wij/
+T21	Person 270 276	roosje
+R7	Is Arg1:T21 Arg2:T5	

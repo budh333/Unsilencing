@@ -1,0 +1,44 @@
+T1	Person 88 106	M: Egbert Blomhert
+T2	Person 229 247	heer van den Burgh
+T3	Person 1064 1071;1072 1091;1092 1102	Mejuffw Johanna Geertruijda de Lahaije
+T6	Person 1328 1334;1335 1346	augus„ „tina Flora
+T7	Person 1358 1364	Aurora
+T8	Person 1368 1373	Jacob
+T10	Person 1605 1615;1616 1623	Somina van Amboina
+T11	Group 1627 1641	haere kinderen
+T14	GPE 1984 1994	maastreiht
+T15	Group 2227 2277	de gezamentlijke kinderen van Sillos van den Bergh
+T16	Person 1949 1955;1956 1969	Barend van den Bergh
+T17	Men 1941 1948	de heer
+R1	Is Arg1:T16 Arg2:T17	
+T18	Person 2117 2128	van Barteld
+T19	Men 2129 2137	wilminik
+R2	Is Arg1:T18 Arg2:T19	
+T20	Men 280 324	de wel Ed:e gestr Heer en Heeren Comparanten
+T21	Men 384 404	Ed„e gestren Edelens
+T22	Men 629 634;635 651	Edele gestr en Edelens
+T23	Person 902 919	M Egbert Blomhert
+T24	Men 894 901	notaris
+R3	Is Arg1:T23 Arg2:T24	
+T25	Indigenous 1142 1150	slafsche
+T26	Indigenous 1213 1223	lyfeigenen
+T28	GPE 1397 1404	batavia
+R5	Location Arg1:T7 Arg2:T28	
+R6	Location Arg1:T8 Arg2:T28	
+R7	Location Arg1:T6 Arg2:T28	
+T31	Women 1263 1267	wijf
+T5	Person 1268 1279;1280 1288	Malatie van Souratta
+T4	Person 1233 1253	Mingoe van Mallabaar
+T9	Person 1434 1451	Telik van boegies
+T13	Indigenous 1673 1679	slaeff
+T27	Men 1673 1679	slaeff
+T12	Person 1688 1704	Januari van Nias
+T29	GPE 1700 1704	Nias
+R4	Is Arg1:T12 Arg2:T13	
+R8	Is Arg1:T12 Arg2:T13	
+T30	Indigenous 1567 1596	bereeds vrijgegevene slavinne
+T32	Women 1588 1596	slavinne
+R9	Is Arg1:T10 Arg2:T32	
+R10	Is Arg1:T10 Arg2:T30	
+T33	GPE 1616 1623	Amboina
+T34	Indigenous 1627 1641	haere kinderen

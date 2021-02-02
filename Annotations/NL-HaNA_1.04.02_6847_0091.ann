@@ -1,0 +1,5 @@
+T1	Men 524 531	broeder
+T2	Person 532 549	Christoffel Kraft
+R1	Is Arg1:T2 Arg2:T1	
+T3	Men 894 901	broeder
+T4	Person 2450 2471	George Lodewijk Zeijl

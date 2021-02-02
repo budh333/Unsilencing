@@ -1,0 +1,7 @@
+T1	Person 341 349	P: Evers
+T2	Person 461 473	Ian van Oord
+T3	Men 452 460	den heer
+R1	Is Arg1:T2 Arg2:T3	
+T4	GPE 1216 1223	Batavia
+T5	Organization 120 126;129 143	heeren Commissarissen
+#1	AnnotatorNotes T2	Jan van Oord

@@ -1,0 +1,26 @@
+T1	Person 2 17	Cornelis van Os
+T2	Organization 93 126;127 180;181 200	De welEdele Groot Agtbaren Heeren Bewindhebberen der Geoptroijeerde Oost Jndische Comp: ter kamer Amsterdam
+T3	GPE 191 200	Amsterdam
+T4	Person 507 523	Abraham Salomons
+T5	Person 527 546	Traijaijes Abrahams
+T7	Person 702 717	Egbert Blomhert
+T8	Person 787 802	Egbert Bromrert
+*	Alias T8 T7
+T9	Organization 824 869	de Edele Hooge Regeering van Nederlands India
+T10	GPE 892 904	stad Batavia
+T11	Person 1454 1485	Francina Cleopatra, van Buijten
+T13	Women 1448 1453	vrouw
+R1	Is Arg1:T11 Arg2:T13	
+T14	Person 1650 1669	Rasuie van mandhaar
+T15	Person 1674 1684;1685 1690	Matati van Balij
+T18	Women 1642 1649	meijden
+R2	Is Arg1:T14 Arg2:T18	
+R3	Is Arg1:T15 Arg2:T18	
+T19	Person 1757 1769	Draman Groot
+T6	Indigenous 1432 1443;1444 1453	vrije Chris ten vrouw
+R4	Is Arg1:T11 Arg2:T6	
+R5	Is Arg1:T15 Arg2:T18	
+T12	Indigenous 1738 1756	den vrije papanger
+R6	Is Arg1:T19 Arg2:T12	
+T16	GPE 1748 1756	papanger
+T17	Person 954 969	Cornelis van Os

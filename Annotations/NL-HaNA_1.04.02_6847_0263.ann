@@ -1,0 +1,11 @@
+T1	Person 131 145	Leendert Rolff
+T2	GPE 241 248	Batavia
+T3	Person 309 343	Johan Gerard Visscher van Saesbeek
+T4	Person 952 957;958 970	Adri„ „aan Boesses
+T5	Men 943 951	den Heer
+R1	Is Arg1:T4 Arg2:T5	
+T6	Person 1491 1510	Leentje van Passier
+T7	Women 1485 1490	vrouw
+R2	Is Arg1:T6 Arg2:T7	
+T8	Indigenous 1467 1490	vrije onchristene vrouw
+R3	Is Arg1:T6 Arg2:T8	

@@ -1,0 +1,35 @@
+T2	Person 11 26	Cupiao van Bwoo
+T3	Person 28 46	minerva van boegis
+T4	Person 51 68	anieravan batavia
+T5	Person 51 68	anieravan batavia
+#1	AnnotatorNotes T5	Should be Aniera van
+T6	Person 69 84	Lia van batavia
+T7	Person 98 116	Roosje van batavia
+T8	Unclear_entity 89 94	nases
+#3	AnnotatorNotes T8	Person?
+T9	GPE 162 172	boorlingen
+T10	Men 243 252	testateur
+T11	Women 264 274	huijsvrouw
+T12	Indigenous 362 375	lijffeijgenen
+T13	Men 385 394	testateur
+T14	Unclear_entity 619 625	drdrie
+#4	AnnotatorNotes T14	drie?
+T15	Women 626 633	Juff=re
+T16	Men 667 677	boekhouder
+T17	Person 696 712	Cornelis Eekhout
+T18	Women 928 938	huijsvrouw
+T19	Men 1020 1024	zoon
+T1	Men 1315 1319	zoon
+T20	Person 1327 1344	Arnoldus Abeleven
+R1	Is Arg1:T20 Arg2:T1	
+T21	Person 1394 1406	Johan George
+R2	Is Arg1:T21 Arg2:T1	
+T22	Person 1417 1433	Adriaan Abeleven
+R3	Is Arg1:T22 Arg2:T1	
+T23	Men 1564 1573	testateur
+T24	Unclear_entity 1496 1505	uijtrecht
+#2	AnnotatorNotes T24	Utrecht?
+T25	Women 1871 1877	Moeder
+T26	Men 1930 1941	te stateurs
+T27	Men 1817 1830	dentestateurs
+T28	Person 1025 1046	Johan George Abeleven

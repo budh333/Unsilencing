@@ -1,0 +1,5 @@
+T1	Person 211 229	Johannes Timmerman
+T2	Men 207 209	dE
+R1	Is Arg1:T1 Arg2:T2	
+T3	Organization 604 654;655 707;708 715	De wel Edele Groot Agtbaeren Heeren Bewindhebberen der Geactroijeerde oost Indische Comp: ter kamer Am„ sterdam
+T4	GPE 704 707;708 715	Am„ sterdam

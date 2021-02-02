@@ -1,0 +1,15 @@
+T1	Person 1373 1389	Louise Verdelhan
+T2	Women 1364 1372	Mejuff=r
+R1	Is Arg1:T1 Arg2:T2	
+T3	Person 1332 1348	Maurits Anthonij
+T4	Men 1323 1331	Den Heer
+R2	Is Arg1:T3 Arg2:T4	
+T5	GPE 1405 1414	S„t Aubin
+T6	Person 1877 1901	Pieter Cornelis Hasselaa
+T7	Men 1844 1851;1852 1876	Den wel Edele vestrenge Heer M„r
+R3	Is Arg1:T6 Arg2:T7	
+T8	Organization 1919 1944	Raad van Nederlands India
+T9	GPE 1928 1944	Nederlands India
+T10	Men 1949 1958;1959 1963	den E: E: Heer
+T11	Person 1964 1987	Reijnier van Vlissingen
+R4	Is Arg1:T11 Arg2:T10	

@@ -1,0 +1,34 @@
+T1	Person 0 8	Jora Hen
+#1	AnnotatorNotes T1	Josua Hen
+T2	Person 56 70	LieuEert Rolff
+#2	AnnotatorNotes T2	Leendert Rolff
+T3	Men 409 413	Heer
+T4	Person 414 433	Hendrik van Stokum,
+T5	GPE 454 463;464 469	Nederland india
+T6	GPE 718 725	Batavia
+T7	Person 841 854	Leendert Rolf
+T8	Organization 883 921	EHooge Regeeringe van Nederlands India
+T9	GPE 905 921	Nederlands India
+T10	GPE 948 955	Batavia
+T11	GPE 1080 1126	wystzijne van de Grootte Rivier binnen destaet
+T12	Organization 1055 1062	E: Comp
+T13	Person 1020 1029	Holua Hen
+#3	AnnotatorNotes T13	Josua Hem
+T14	Organization 1772 1807	almoesniers wdeshuijs tot Amsteriam
+#4	AnnotatorNotes T14	Almoesniers weeshuijs tot Amsterdam
+T15	Organization 2225 2245	Heeren Weesmeksteren
+#5	AnnotatorNotes T15	Heeren Weesmeesteren
+T16	Organization 2349 2380	Edele Hooge Indiasche Regeering
+T17	Indigenous 2391 2402	lijfEigenen
+T18	Indigenous 2512 2517	slaaf
+T19	Men 2512 2517	slaaf
+T20	Person 2518 2538	Portuijn van Malbaar
+#6	AnnotatorNotes T20	Fortuijn van Malbaar
+R1	Is Arg1:T20 Arg2:T18	
+T21	GPE 2542 2551	Soudratta
+T22	GPE 2531 2538	Malbaar
+T23	Indigenous 2588 2610	vrije Onchriste vrouwe
+T24	Person 2611 2627;2628 2634	Rosetta van Ben„ „galen
+T25	Women 2604 2610	vrouwe
+R2	Is Arg1:T24 Arg2:T23	
+T26	GPE 2623 2627;2628 2634	Ben„ „galen

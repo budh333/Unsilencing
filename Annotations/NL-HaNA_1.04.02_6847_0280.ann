@@ -1,0 +1,18 @@
+T1	Person 142 154	Darid Jansz:
+T2	Person 160 174	Carel Francois
+T3	Person 336 345	P=t Rolff
+T5	Person 518 534	F: W: Hooghlamer
+T6	Person 556 581	Fredrik Willem Hooghcamer
+*	Alias T6 T5
+T4	Person 355 366	Michil Komp
+#1	AnnotatorNotes T4	Michiel Romp, appears in the 19th century index
+#2	AnnotatorNotes T3	Leendert Rolff?
+T7	Organization 609 654	d’ Edele Hooge regeering van Nederlands India
+T8	GPE 638 654	Nederlands India
+T9	GPE 681 693	stad Batavia
+T10	Person 766 778	Micheel Romp
+*	Alias T10 T4
+T11	Organization 808 841;842 860	Eerw: Collegie, van Heeren Heemra „den der Bataviase
+T12	Person 883 896	Maria Kuijper
+T13	Women 876 882	Memss=
+R1	Is Arg1:T12 Arg2:T13	

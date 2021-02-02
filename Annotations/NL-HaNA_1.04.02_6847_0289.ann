@@ -1,0 +1,15 @@
+T1	Person 917 929	A=m Salomous
+T2	Person 934 944;945 947;948 951	S=r de Me„ —. „lo
+T3	Person 1099 1104;1119 1127	Egber Blomhert
+T4	Organization 1172 1181	wee kamer
+T5	Organization 1219 1239	Heeren Weesmeesteren
+T6	GPE 1267 1274	Batavia
+T7	Person 1355 1362	Lippens
+T8	Person 1406 1429	Fredrik Hendrik Beijnon
+T9	Person 1538 1543;1544 1551	Jacob Livvens
+T10	Person 1327 1342	P=l f=k severin
+*	Alias T7 T9
+T11	Organization 425 459	Edele Hooge Regeering deser Landen
+T12	Group 513 519;520 581	slaven die belijdenisse van den Choistelijken Godsdienst gedaan heb„
+#1	AnnotatorNotes T12	Described as goods
+T13	GPE 1586 1592	pisang

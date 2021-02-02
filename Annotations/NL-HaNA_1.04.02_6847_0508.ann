@@ -1,0 +1,46 @@
+T1	Person 58 78	George zodewijk Pfei
+T2	Men 80 101	Baas der timmerlieden
+R1	Is Arg1:T1 Arg2:T2	
+T3	Unclear_entity 106 113	sComp„s
+T4	Women 141 147	Juff=r
+T5	Person 148 155;156 172	Rachel, Perera Egteliede
+R2	Is Arg1:T5 Arg2:T4	
+T6	Indigenous 784 790	slaaff
+T7	Person 797 813	Maij van Batavia
+T8	Men 825 833	koetsier
+R3	Is Arg1:T7 Arg2:T8	
+T9	Person 1059 1083	Johanna Dorotheatjodhold
+T10	Women 1051 1058	Iufrouw
+T11	Women 1044 1050	Moeder
+R4	Is Arg1:T9 Arg2:T10	
+R5	Is Arg1:T9 Arg2:T11	
+T12	Women 1084 1088	wed:
+R7	Is Arg1:T9 Arg2:T12	
+T13	Person 1093 1110	Jan Bernard Efeil
+T14	GPE 1127 1148	frankfort aan de main
+T15	Women 1212 1219	zusters
+T16	Women 1339 1346	Zusters
+T17	Men 1476 1483	Broeder
+T18	Person 1484 1506	Llopold Heinrich Pseij
+R8	Is Arg1:T18 Arg2:T17	
+T19	Men 1556 1559	loo
+T20	Person 1561 1574	Fredrik PCeil
+R12	Is Arg1:T20 Arg2:T19	
+T21	Unclear_entity 1769 1773	Ed„e
+T22	GPE 1788 1794	Europa
+T23	Women 1902 1915	schoon moeder
+T24	Women 1916 1922	Juff=r
+T25	Person 1923 1945	Johanna Petronella Lim
+T26	Women 1946 1950	wede
+R14	Is Arg1:T25 Arg2:T26	
+R15	Is Arg1:T25 Arg2:T24	
+R16	Is Arg1:T25 Arg2:T23	
+T27	Men 2007 2011	Ed„s
+T28	Person 2401 2420	Dominicus Berdnaard
+T29	Person 2422 2434	Johan Philip
+T30	Person 2436 2451	George Lodewijk
+T31	Person 2454 2477	Johanna Christina Pjeil
+R24	Family Arg1:T28 Arg2:T29	
+R25	Family Arg1:T29 Arg2:T30	
+R26	Family Arg1:T28 Arg2:T30	
+T32	Women 872 880	statrice

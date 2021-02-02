@@ -1,0 +1,27 @@
+T1	Group 253 313;314 334	de LeijtEijgenen, die belijdenis van den Christelijken Gods„ dienst gedaan hebben
+T2	Indigenous 253 313;314 335	de LeijtEijgenen, die belijdenis van den Christelijken Gods„ dienst gedaan hebben;
+T3	Organization 138 170	de Edele hooge Indiase Regeering
+T4	Person 842 853	David Jansz
+T5	Person 860 875;876 884	Fredrik Baltha„ Isaaksz:
+T6	Person 1300 1307	Leentje
+T7	Women 1294 1299	vrouw
+R1	Is Arg1:T6 Arg2:T7	
+T9	Women 1245 1254	dogtertje
+T10	Indigenous 1245 1254	dogtertje
+T11	Person 1540 1570	Theodoor Visscher van Gaesbeek
+T12	Person 1594 1608	Damon van Mias
+T14	Men 1577 1585	manslaaf
+R2	Is Arg1:T12 Arg2:T14	
+T15	Person 1749 1768	Leentje van Passier
+T16	Person 1801 1819	Amelia van doegies
+T17	Women 1743 1748	vrouw
+R3	Is Arg1:T15 Arg2:T17	
+T18	Women 1779 1794;1795 1800	vrije ontristen vrouw
+R4	Is Arg1:T16 Arg2:T18	
+T19	Indigenous 1779 1794;1795 1800	vrije ontristen vrouw
+R5	Is Arg1:T16 Arg2:T19	
+T20	Indigenous 1726 1742;1743 1748	vrije onchristen vrouw
+R6	Is Arg1:T15 Arg2:T20	
+T21	Indigenous 1577 1585	manslaaf
+T8	Indigenous 1283 1299	onchristen vrouw
+R7	Is Arg1:T6 Arg2:T8	

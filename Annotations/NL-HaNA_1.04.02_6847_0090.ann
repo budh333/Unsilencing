@@ -1,0 +1,13 @@
+T1	Person 77 92	Sijbrand Braaks
+T2	Person 1558 1565;1566 1574	Abraham Salomons
+T3	Person 1578 1593	Jacob Hendriksz
+T4	Person 1741 1752	E: Blomhert
+T5	Person 1761 1778	Christiaan Krafft
+T6	Unclear_entity 1798 1817	9:e Augustus A:o 17
+T7	Person 1877 1891	Leendert Rolff
+T8	GPE 1940 1956	nederlands Jndia
+T9	GPE 1985 1992	Batavia
+T10	Person 2054 2071	Christiaan Krafft
+T11	Women 2124 2130	Juff:r
+T12	Person 2131 2152;2153 2157	Anna Laurensia Lruij„ mers
+R1	Is Arg1:T12 Arg2:T11	

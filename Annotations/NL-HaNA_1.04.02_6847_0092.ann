@@ -1,0 +1,11 @@
+T1	Person 1422 1434	David Jansz:
+T2	Person 1440 1464	Johannes Augustijn Louis
+T3	Person 1764 1771	Batavia
+T4	Person 1844 1868	Johannes Francisa Hadorn
+T5	Unclear_entity 1882 1900	11„e November 1770
+T7	Person 1927 1942	Egbert Blomhert
+T8	GPE 1990 2006	nederlands India
+T9	GPE 2034 2041	Batavia
+T10	Men 2108 2112	Heer
+T11	Person 2114 2132;2133 2139	ohannes Franciscus Hadorn
+R2	Is Arg1:T11 Arg2:T10	

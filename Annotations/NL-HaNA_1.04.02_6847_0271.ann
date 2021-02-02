@@ -1,0 +1,29 @@
+T1	Person 265 273;274 280	Anthonia van Os
+T2	Women 258 264	Suster
+R1	Is Arg1:T1 Arg2:T2	
+T3	Person 295 307	Dirk verweij
+T4	GPE 310 317;318 321	Amster„ dam
+T5	Person 372 387	Iannetje van Os
+T6	Women 365 371	zuster
+R2	Is Arg1:T5 Arg2:T6	
+T7	Person 402 418	Cornelis De Jong
+T8	GPE 422 429	Teerdam
+T9	Person 512 525	Aartje van Os
+T10	Women 504 511	suester
+R3	Is Arg1:T9 Arg2:T10	
+T11	Person 565 577;578 586	Georgius Van Adrichem
+T12	Men 554 564	Eerw: Heer
+R4	Is Arg1:T11 Arg2:T12	
+T13	GPE 601 612	S=t Maarten
+T14	Women 645 651	Suster
+T15	Person 652 670	Geertruijda van Os
+R5	Is Arg1:T15 Arg2:T14	
+T16	Person 713 723	Ian van Ox
+T17	Men 705 712	Broeder
+R6	Is Arg1:T16 Arg2:T17	
+T18	Person 1175 1189	onij Nieuwveld
+#1	AnnotatorNotes T18	Anthonij van Nieuwveld
+T19	Person 1239 1253	Pieter Almenum
+T20	Person 1570 1582	Dirk verweij
+T21	Person 1590 1605	Willem Verduijm
+T22	Person 1622 1625;1626 1629	Am„ dam

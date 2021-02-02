@@ -1,0 +1,22 @@
+T1	Men 148 152	Heer
+T2	Person 153 175	Lambertus Daniel Kreps
+R1	Is Arg1:T2 Arg2:T1	
+T3	Person 232 252	Jan Coenraad Sijlner
+T4	Women 1474 1480	dogter
+T5	Women 1490 1500	Erfgenaame
+T6	Person 1501 1513	Maria Nissel
+T7	Women 1560 1580	vaije Christen vrouw
+T8	Person 1581 1596	Mietje Leenders
+R2	Is Arg1:T8 Arg2:T7	
+R3	Is Arg1:T6 Arg2:T5	
+R4	Is Arg1:T6 Arg2:T4	
+T9	Women 1725 1734	doctertje
+T11	Indigenous 1864 1869	slaaf
+T12	Person 1870 1876	Sagone
+R5	Is Arg1:T12 Arg2:T11	
+T13	Indigenous 1883 1891	Slavinne
+T14	Women 1883 1891	Slavinne
+T15	Person 1892 1899	Rosetta
+R6	Is Arg1:T15 Arg2:T13	
+R7	Is Arg1:T15 Arg2:T13	
+T16	Indigenous 2318 2331	LijffEijgenen

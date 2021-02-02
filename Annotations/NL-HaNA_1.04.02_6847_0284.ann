@@ -1,0 +1,59 @@
+T1	Person 497 515;516 521	Johannes Welhelmus Close
+T2	Person 747 769	Boeco Sabinus de Iongh
+#1	AnnotatorNotes T2	Rocco? Sabinus de Jongh
+T3	Person 841 856	Dorothea Jansz:
+T4	Women 834 840	Iuff=r
+R1	Is Arg1:T3 Arg2:T4	
+T5	Person 863 877	Hendrik Essene
+T6	Person 975 991	Susanna Hageboom
+T7	Women 968 974	Jusf=t
+R2	Is Arg1:T6 Arg2:T7	
+T8	Person 998 1005;1006 1012	Hendrik Romijn
+T9	Women 1197 1216	Ed: Moeije Mejrff=r
+T10	Person 1217 1226;1227 1247	Arlke Re„ „nies Nieuwenhuijsen
+R3	Is Arg1:T10 Arg2:T9	
+T11	Person 1256 1275	Mous=r Claas Alders
+T12	GPE 1289 1296	Eendrom
+T13	GPE 1300 1313	Groningerland
+T14	Women 1413 1426	Moeije Iuff=r
+T15	Person 1427 1439;1440 1444	Engeltje kun „per
+R4	Is Arg1:T15 Arg2:T14	
+T16	Person 1451 1465	Barend nijding
+T17	GPE 1479 1488	Amsterdam
+T18	Person 1581 1595	Iacoba nijding
+T19	Person 1608 1622	Dirk Posseling
+T20	Group 1778 1784;1785 1793	Leijt„ Eijgenen
+T21	Indigenous 1778 1784;1785 1793	Leijt„ Eijgenen
+T22	Person 1799 1804;1805 1816	Caart van Pamlijn
+T23	Person 1805 1816;1826 1834	van Pamlijn Novembek
+T24	Person 1835 1853	Ianuarij
+„ Boegies
+#3	AnnotatorNotes T22	Maart van Jambij
+T26	Person 1835 1843;1844 1853	Ianuarij „ Boegies
+#2	AnnotatorNotes T26	Januarrij van Boegies
+T25	Person 1862 1869;1870 1880	fabiua: „ Mandlaat
+T27	Person 1881 1890;1891 1899	„ de Cust Roselijn
+T28	Person 1965 1985	Clarinda van Bergale
+T30	Men 1918 1923	Ionga
+T31	Person 1881 1890;1932 1939	„ de Cust Candasa
+T33	Person 1924 1930	Isaack
+R6	Is Arg1:T33 Arg2:T30	
+T34	Person 1940 1950;1986 1992	„ Manicabo Ontong
+#4	AnnotatorNotes T34	Ontong van Maracaibo
+T37	Women 1959 1964	wijft
+R5	Is Arg1:T28 Arg2:T37	
+#5	AnnotatorNotes T31	Candasa van de Cust
+#6	AnnotatorNotes T27	Roselijn van de Cust
+T39	Women 1900 1905	vrouw
+R7	Is Arg1:T31 Arg2:T39	
+T42	Person 1799 1804;1805 1816	Caart van Pamlijn
+#7	AnnotatorNotes T42	Maart van ....
+#8	AnnotatorNotes T23	November van Jambij 
+T44	Indigenous 1912 1923	vrije Ionga
+R8	Is Arg1:T42 Arg2:T20	
+R9	Is Arg1:T23 Arg2:T21	
+R10	Is Arg1:T26 Arg2:T21	
+R11	Is Arg1:T25 Arg2:T21	
+R12	Is Arg1:T27 Arg2:T21	
+R13	Is Arg1:T34 Arg2:T21	
+R14	Is Arg1:T28 Arg2:T21	

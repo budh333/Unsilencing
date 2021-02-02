@@ -1,0 +1,9 @@
+T1	Group 4 28	formeerde Piaconie Armen
+T2	Person 417 422;423 433;478 486	Sacob Christiaan Thierens
+T3	Person 434 450;478 486	Sophia Henreetta Thierens
+T4	Person 455 471;472 486	Lieve Paulus Cor nelis Thierens
+T5	Person 539 572	Cornelia van Rheede van Outshoorn
+T6	Women 530 538	Mejuff=r
+R1	Is Arg1:T5 Arg2:T6	
+T7	Women 519 529	Huijsvrouw
+R2	Is Arg1:T5 Arg2:T7	

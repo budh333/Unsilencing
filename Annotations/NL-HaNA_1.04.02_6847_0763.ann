@@ -1,0 +1,34 @@
+T1	Men 196 200	Heer
+T2	Person 204 215;216 230	Danel Faceb Meijnertohagen
+#1	AnnotatorNotes T2	Daniel Jacob Meijnertshagen
+T3	Organization 246 258	water geregt
+T4	Person 262 267;268 278	Jacob Kursseboem
+#2	AnnotatorNotes T4	Jacob Kersseboom
+T5	Men 335 339	Heer
+T6	Organization 386 406	Heeren Weermeesteren
+T7	GPE 644 653	Amsterdam
+T8	Person 671 684;685 689	Harmanus Bou„ „man
+T9	Person 693 705	Pieter Broes
+T10	Person 762 768	A Beem
+T11	Unclear_entity 786 805	Otto Frans Nicolaa,
+T12	Unclear_entity 864 869	Mario
+T13	Person 891 905	Leendert Ralff
+T14	Organization 936 973	hooge regeeringe van Nederlands India
+T15	GPE 1001 1008	Batavia
+T16	GPE 957 973	Nederlands India
+T17	Person 1074 1094	Frans Nicolaas Marii
+T18	Women 1151 1159	Iuffrouw
+T19	Person 1160 1166;1167 1193	Catha„ „rina Elisabeth Romswinkel
+R1	Family Arg1:T19 Arg2:T17	
+T20	Men 1855 1859	Heer
+T21	Men 1846 1851	vader
+T22	Person 1860 1880	Hdolp Frnderik Marii
+#3	AnnotatorNotes T22	Adolph Frederik Marci
+#4	AnnotatorNotes T17	Frans Nicolaas Marci
+T23	GPE 1909 1918	amersfort
+T24	Men 2078 2086	doopzoon
+T25	Person 2087 2106	Frans Willem Wattig
+T26	Men 2108 2112	zoon
+T27	GPE 2153 2161	Samarang
+T28	Person 2162 2186	Jchun Christoffel wattig
+#5	AnnotatorNotes T28	Johan Christoffel Wattig

@@ -1,0 +1,18 @@
+T1	Person 107 115;116 123	Casparus Hartman
+T2	Person 140 153;154 162	Carel Fredrik Peterman
+T3	Person 166 178	Jan van Dijk
+T4	Person 328 341	Jan van Oordt
+T5	Men 323 327	heer
+R1	Is Arg1:T4 Arg2:T5	
+T6	Person 521 540	Johan George Frecke
+T8	Person 678 696	Iason, van batavia
+T9	Men 666 677	Jonge gen=t
+R3	Is Arg1:T8 Arg2:T9	
+T12	Person 718 727;728 735	Maccasser boegies
+T14	Person 701 706;707 710	balie Llo
+#1	AnnotatorNotes T14	Leo van Balie
+#2	AnnotatorNotes T8	Jason van Batavia
+#3	AnnotatorNotes T12	Macasser van Boegies
+T15	GPE 718 727	Maccasser
+T16	GPE 701 706	balie
+T17	GPE 689 696	batavia

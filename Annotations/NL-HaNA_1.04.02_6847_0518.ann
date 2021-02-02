@@ -1,0 +1,17 @@
+T1	Men 357 377	heeren weesmeesteren
+T2	Person 2044 2058	Cornelis Proms
+T3	Person 2062 2077	Daniel Meesters
+T4	GPE 1999 2008	rotterdam
+T5	Women 2146 2152	vrouwe
+T6	Men 2135 2142	de heer
+T7	Person 2235 2245	Willem Bom
+T8	Men 2246 2250	nots
+R1	Is Arg1:T7 Arg2:T8	
+T9	Men 2315 2318	M„r
+T10	Person 2319 2334	herman Scheltus
+R2	Is Arg1:T10 Arg2:T9	
+T11	Men 2335 2349	notaris puible
+T12	Organization 2384 2399	Nederlands Indi
+T13	GPE 2429 2433	Batg
+#1	AnnotatorNotes T13	Batavia
+T14	Women 694 703	voogdesje

@@ -1,0 +1,39 @@
+T1	Person 26 53	Hendrik Jan van den Berghen
+T2	Person 54 82	me jusf=r van der scheeren i
+T3	Person 639 654	Hendrik Brugman
+T4	Person 693 699;700 716	Pieter Iosias van waerd
+T5	Person 833 850	Arnoldus Frankena
+T6	Person 906 917	GedeonDulez
+T8	Person 1110 1133	Pieter Iosias van waard
+T7	Person 1086 1101;1102 1106	George Theohee„ „ren
+T9	Person 1331 1346	Pieter Haksteen
+T10	Person 1474 1490	Hendrik Brugmran
+T12	Person 1790 1805	Pieter Ligthart
+T13	Person 1816 1826;1827 1833	willem van Meeden
+T14	Women 54 63	me jusf=r
+R1	Is Arg1:T2 Arg2:T14	
+T15	Unclear_entity 686 691	koopm
+T16	Men 1076 1085	de heeren
+R2	Is Arg1:T7 Arg2:T16	
+R3	Is Arg1:T8 Arg2:T16	
+T17	Men 1138 1154	mede Exeiuteuren
+R4	Is Arg1:T8 Arg2:T17	
+R5	Is Arg1:T7 Arg2:T17	
+T18	Women 1232 1238	dogter
+T19	GPE 1365 1375;1376 1381	nederlands india
+T20	Person 1428 1439	Hteemnaeden
+T21	Men 1417 1427	van heeren
+T22	Men 1385 1406	president in het Eerw
+R6	Is Arg1:T9 Arg2:T22	
+T23	Men 1466 1473	de heer
+R7	Is Arg1:T10 Arg2:T23	
+T25	Unclear_entity 2240 2246	haer E
+T26	Person 2340 2371	Johanna Peertruijda de Lastaije
+T27	Women 2334 2339	frouw
+R9	Is Arg1:T26 Arg2:T27	
+T28	GPE 2127 2136	amsterdam
+T11	Person 1753 1762;1763 1769	Truijntje Bakker
+T24	Women 1770 1775	wed„e
+T29	Women 1746 1752	Mejuff
+R8	Is Arg1:T11 Arg2:T29	
+R10	Is Arg1:T11 Arg2:T24	

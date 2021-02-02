@@ -1,0 +1,32 @@
+T1	Person 0 16;17 29	Hendert Chustien Meyenslhagen
+#1	AnnotatorNotes T1	Hendrik Christian Meyenshagen
+T2	Organization 80 86;87 100	Heeren weesmeesteren
+T3	Person 256 272	Abraham van Peem
+#2	AnnotatorNotes T3	Abraham van Been
+T4	GPE 306 313	Holland
+T5	GPE 329 335;336 341	Amster „dam,
+T6	Person 370 389;390 404	Hendrik Christaaan, Meijnertslagen
+#3	AnnotatorNotes T6	Hendrik Christian Meynertshagen
+T7	GPE 418 434	'tGaaven Ergedag
+#4	AnnotatorNotes T7	'S Gravenhage
+T8	Organization 538 555	oostjndische Comp
+T9	Person 588 605	Rijndert een uijt
+#5	AnnotatorNotes T9	Rijndert den Uijl
+T10	GPE 611 619	Bestavia
+#6	AnnotatorNotes T10	Batavia
+T11	GPE 696 703	Batavia
+T12	Person 898 917	DaHendrik Wiegerman
+#7	AnnotatorNotes T12	Jan Hendrik Wiegerman
+T13	Person 941 981	ohannes Theodorus Visscher van Gaarsbeek
+T14	GPE 1044 1051	Batavia
+T15	Organization 1017 1033	Kleede Pakthuijs
+T16	GPE 1186 1193	Batavia
+T17	Person 1376 1393	Rijneert een uijl
+T18	Men 1369 1375	Heeren
+T19	Person 1405 1411	Brinkm
+T20	Men 1478 1482	Heer
+T21	Person 1686 1706	an Hendrik Wiegerman
+T22	Person 1710 1716;1717 1754	Schan„ „nes Theodorus Visscher van Gaarsbeek
+#8	AnnotatorNotes T22	Johannes Theodorus Visscher van Gaarsbeek
+T23	GPE 2005 2016	Ooslijndien
+#9	AnnotatorNotes T23	Oostindien

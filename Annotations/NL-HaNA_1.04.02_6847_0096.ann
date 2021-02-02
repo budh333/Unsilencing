@@ -1,0 +1,29 @@
+T1	Number 105 110	vijff
+T2	Person 129 134	David
+T3	Person 136 143	Hendrik
+T4	Person 144 152	Francois
+T6	Women 174 179	huisv
+T7	Person 192 203	Jan Andries
+T5	Person 154 163	Catharina
+T8	Person 164 172	Theodora
+T9	GPE 229 238	Conningen
+T10	Person 291 306	Ialenus Iacobus
+T11	Person 320 335;336 340	Maria Elisabeth Vick
+R1	Is Arg1:T11 Arg2:T6	
+T12	Person 392 398;399 405	Martin Mellin
+T13	GPE 448 458	Nagapatnam
+T14	Women 759 765	dogter
+T15	Person 766 769;770 786	sa„ tharina Theodora
+R2	Is Arg1:T15 Arg2:T14	
+T16	Women 834 845	moederlijke
+T17	Person 1271 1288	Willem Duijneveld
+T18	Person 1740 1750;1751 1763	Carel fre„ drik Severin
+T19	Men 1865 1869	zoon
+T20	Men 1976 1982	zoonen
+T21	Person 1870 1890	Palemis Iacobus rick
+R3	Is Arg1:T21 Arg2:T19	
+T22	Person 1983 1986	Mar
+T23	Person 1988 1993	David
+T24	Person 1997 2019	Hendrik Francois vick,
+T25	Men 2023 2034	Schoon zoon
+T26	Person 2035 2045	tin Mellin

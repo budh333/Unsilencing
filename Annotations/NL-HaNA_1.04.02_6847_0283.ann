@@ -1,0 +1,41 @@
+T1	Person 74 99	Fredrik Willem Hooghcamer
+T2	Person 282 294	Hester: Romp
+T3	Women 275 281	suster
+R1	Is Arg1:T2 Arg2:T3	
+T4	GPE 444 454	Suijlesten
+T5	GPE 463 470	utrecht
+T6	Person 317 339	Hendrik Pelgrom De Bie
+T7	GPE 344 350	Leeren
+T8	Men 309 316	de Heer
+R2	Is Arg1:T6 Arg2:T8	
+T9	Person 1016 1033	Hester Petronella
+T10	Women 1008 1015	dogters
+R3	Is Arg1:T9 Arg2:T10	
+T11	Person 1071 1089	David Johan Cmritl
+#1	AnnotatorNotes T11	David Johan Smitt
+T12	Organization 1090 1100;1101 1128	Raad Estra ord„e van Nederlands India,
+T13	GPE 1111 1127	Nederlands India
+T14	Person 1132 1148	Anna Maria Rom p
+T15	Women 1149 1159	huijsvrouw
+R4	Is Arg1:T14 Arg2:T15	
+T16	Person 1182 1198;1199 1212	Johannes Robbert van den Burgh
+T17	Men 1167 1181	WelEdelen Heer
+R5	Is Arg1:T16 Arg2:T17	
+T18	Men 1050 1070	welEdele Gestr: Heer
+R6	Is Arg1:T11 Arg2:T18	
+T19	GPE 1250 1255;1256 1264	Iaras oostcust
+#2	AnnotatorNotes T19	Java
+T20	Person 1605 1634	Michilda Maria Pelgrom de Bie
+T21	Women 1598 1604	bagter
+#3	AnnotatorNotes T21	dogter
+R7	Is Arg1:T20 Arg2:T21	
+T22	Person 1846 1875	Michilda Maria Pelgrom de Bie
+T23	Women 1841 1845	Nigt
+R8	Is Arg1:T22 Arg2:T23	
+T24	Person 2083 2094	fester Romp
+T25	Women 2074 2082	mejusf=r
+R9	Is Arg1:T24 Arg2:T25	
+*	Alias T2 T24
+T26	Organization 2202 2259	de wel
+Edele Agtb: Heeren weesmeesteren, der stad utrecht
+T27	GPE 2243 2259	der stad utrecht

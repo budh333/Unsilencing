@@ -1,0 +1,8 @@
+T1	Person 572 579	Brouwer
+T2	Person 648 655	Hartman
+T3	Person 715 726	F: Peterman
+T4	Person 730 741	I: van Dijk
+T5	Person 30 63	Johan Gerad Viescher van Gaerheek
+#1	AnnotatorNotes T5	Border issue, comes from different page
+T6	GPE 496 503	Batavia
+T7	GPE 791 798	Batavia

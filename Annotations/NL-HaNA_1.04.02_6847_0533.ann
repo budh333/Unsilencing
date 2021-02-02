@@ -1,0 +1,30 @@
+T1	Person 0 29	Julius August Henderik Rowolt
+T2	Person 111 127	Liendert Rolff„s
+T3	Men 128 140	notaris pubt
+R1	Is Arg1:T2 Arg2:T3	
+T4	GPE 155 170;171 191	horge regeringe van nederlands Jndia
+T5	GPE 221 228	Batavia
+T6	Men 286 289	DE:
+T7	Person 290 311;312 318	Julius August Hendrik Rowolt
+T8	Men 319 334	baas Lootgieter
+R2	Is Arg1:T7 Arg2:T8	
+T10	Person 935 950	Coenraad Hiller
+T12	Person 1003 1021	Lodewijk Suuerland
+T13	Men 1031 1042	keurmeester
+R5	Is Arg1:T12 Arg2:T13	
+T14	Person 1185 1196	E Suuerland
+T9	Men 1217 1224;1225 1239	geadop„ teerde Soontje
+T11	Person 1241 1257	Hendrik Lodewijk
+R3	Is Arg1:T11 Arg2:T9	
+T15	Indigenous 1455 1468	lijffeijgenen
+T16	Indigenous 1591 1599	slavinne
+T17	Women 1591 1599	slavinne
+T18	Person 1608 1615;1616 1624	Malatie van Nias
+R4	Is Arg1:T18 Arg2:T17	
+T19	Indigenous 1710 1716	slaaff
+T20	Person 1717 1736	Ianuarij van boegis
+R6	Is Arg1:T20 Arg2:T19	
+T21	Women 1759 1765	aogter
+T22	Person 1766 1783	Bitja van batavia
+T23	Indigenous 1759 1765	aogter
+R7	Is Arg1:T22 Arg2:T23	

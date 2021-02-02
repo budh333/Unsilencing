@@ -1,0 +1,11 @@
+T1	Person 42 54;55 61	Frans Willen waltig
+#1	AnnotatorNotes T1	Frans Wilhem Wattig
+T2	Women 149 158	degterlje
+#2	AnnotatorNotes T2	dogtertje
+T3	Person 159 178	Christina Elisabeth
+T4	GPE 397 403	Europa
+T5	Women 1142 1151	dogtertje
+T6	Person 1160 1169;1170 1179	Christina Elisubeth
+#3	AnnotatorNotes T6	Christina Elisabeth
+T7	Women 1276 1284	Juffrouw
+T8	Organization 2092 2111	Heeren Weesmesteren

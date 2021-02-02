@@ -1,0 +1,36 @@
+T1	Person 530 548	Dominicus Bernard,
+T2	Person 549 561	Johan Philip
+T3	Person 566 588	George Lo dewijk Pseij
+T4	Men 523 529	zoonen
+R4	Is Arg1:T3 Arg2:T4	
+R5	Is Arg1:T2 Arg2:T4	
+R6	Is Arg1:T1 Arg2:T4	
+T5	GPE 494 500	Europa
+T6	Men 672 679	broeder
+T7	Men 719 726	Broeder
+T8	Person 727 748	Ropold Heinrich Peijl
+R7	Is Arg1:T8 Arg2:T7	
+T9	Men 768 772	zoon
+T10	Organization 1188 1227	oostindische Comp„e ter kamer Amsterdam
+T11	Person 2369 2385	Joachim wilherts
+T12	Men 2360 2364	heer
+T13	Unclear_entity 2354 2358	agtb
+T14	Women 2492 2500	mejuff=r
+T15	Unclear_entity 2501 2508	demed„e
+T16	Person 2509 2515	Gargon
+R12	Is Arg1:T16 Arg2:T14	
+T17	Women 404 414	huijsvrouw
+T18	Women 418 428	testatrice
+T19	Men 1121 1168	de wel Edelen Groot agtb: heeren Bewindhebberen
+T20	Men 1309 1317;1318 1334	haer wel Edele groot agtb
+T21	Men 1448 1457	Executeur
+T22	Women 1398 1408	testatrice
+T23	Women 1881 1891	testatrice
+T24	Men 260 266	heeren
+T25	Men 267 280	weesmeesteren
+T26	Unclear_entity 1022 1031	DE Comp„s
+T27	Men 2017 2023	heeren
+T28	Men 2024 2037	weesmeesteren
+T29	Men 2053 2064	magistraats
+T30	Women 2197 2207	testatrice
+T31	Men 1724 1733	testateur

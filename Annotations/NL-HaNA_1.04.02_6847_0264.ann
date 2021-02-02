@@ -1,0 +1,12 @@
+T1	Person 139 161;162 180	Iohannes Theodorus Vis scher van Paasbeek
+T2	Person 10 31	Bartholomeus Visscher
+T3	Men 5 9	Heer
+R1	Is Arg1:T2 Arg2:T3	
+T4	Person 578 585	Boesses
+T5	Men 573 577	Heer
+R2	Is Arg1:T4 Arg2:T5	
+T6	Person 590 624;625 633	E. Iohannes Theodorus Visscher van Gaesbeek
+T7	Organization 1210 1242;1243 1282	Bewindhebberen der Geoctroieerde oost jndische Comp: ter kamer Amsterdam
+T8	Men 1178 1190;1191 1209	De Wel Edele groot Agtb: Heeren
+T9	Group 1752 1766	Leijt bijgenen
+T10	Indigenous 1752 1766	Leijt bijgenen

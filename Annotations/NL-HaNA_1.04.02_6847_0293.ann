@@ -1,0 +1,13 @@
+T1	Person 644 654	P= Lispens
+T2	Person 495 508	Jasma Lippens
+T3	Women 509 519	huijsvrouw
+R1	Is Arg1:T2 Arg2:T3	
+T4	GPE 600 607	Batavia
+T5	Person 554 578	Cdoper Lernard Limbacher
+T6	Person 716 731	Egbert Blomhert
+T8	Organization 753 798	de Edele Hooge Regeering van Nederlands India
+T9	GPE 822 834	stad Batavia
+T10	Person 883 901	Stephanus van Reis
+T11	Person 1076 1098	Paielus Elders Eertter
+T12	Organization 1119 1163	Agtb: Raad van Justitie des Casteels Batavia
+T13	GPE 1147 1163	Casteels Batavia

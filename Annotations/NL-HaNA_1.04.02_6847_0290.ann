@@ -1,0 +1,21 @@
+T1	Group 156 182	Diaconij Armen deser stede
+T2	Person 395 397;398 401	Ba „je
+T3	Indigenous 388 394	slanen
+R1	Is Arg1:T2 Arg2:T3	
+T4	Indigenous 398 401	„je
+T5	Person 331 345;346 353	Franciscus Per roetsma
+T6	Person 809 842	adie Christiaan Leonaro
+Limbacher
+T7	Person 779 789;790 804	Caster Ler nard Limbacher
+T8	Person 924 935	Csper voges
+T9	Person 990 1009;1010 1016	Iohannes Christiaan terfet
+T10	Person 1218 1230;1231 1236	Adriaan Wig„ „gers
+T11	Person 1412 1426	Iosina Lippens
+T12	Women 1405 1411	suster
+T13	Women 1427 1437	huijsvrouw
+R2	Is Arg1:T11 Arg2:T13	
+R3	Is Arg1:T11 Arg2:T12	
+T14	Person 1466 1490	Casper Leonard Limbacher
+T15	Person 1656 1678	Franciscus Gerdoltsina
+T16	Person 1705 1720	Jan arel Pettig
+T17	GPE 456 462	pisang

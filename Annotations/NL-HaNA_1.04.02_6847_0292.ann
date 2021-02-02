@@ -1,0 +1,18 @@
+T1	Person 108 130	Franciscus Gertoel Sma
+T2	Person 167 179	Capper Voges
+T3	Person 236 253	Christoffel Kroll
+T4	Person 311 326	Petrus Streuske
+T5	Person 363 375;376 381	Adriaan Weg„ „gers
+T6	Person 497 503;504 522	frans„ Ciscus Perroltsina
+T7	Person 591 603	Thomas Voges
+T8	Person 732 735;736 751	Io„ handies Proenan
+T9	Person 1174 1191;1192 1194	Gantje van Limbor to
+T11	Person 1470 1494	Cooper Leonard Limbagher
+T12	Person 1728 1745	Roeloff Westerman
+T13	Person 1780 1797;1798 1808	Johannes Petrus o resloskij,
+T14	Person 1812 1829	Christiaan Muniik
+#1	AnnotatorNotes T9	Jantje van ...
+T15	Person 1362 1368	Iantje
+*	Alias T9 T15
+T10	Indigenous 1156 1165	Mantlaass
+R1	Is Arg1:T9 Arg2:T10	

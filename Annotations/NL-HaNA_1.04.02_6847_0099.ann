@@ -1,0 +1,22 @@
+T1	Person 537 555	Abraham Salomonsen
+T2	Person 556 569	Iacob Hendrik
+T3	Person 724 732	Blomhert
+T4	GPE 882 889	Batavia
+T5	Person 967 983	Daniel Hasselaar
+T7	Person 1044 1059	Egbert Alomhert
+T8	GPE 1156 1163	Batavia
+T9	Person 1217 1220;1221 1236	Da„ niel Hasselaar,
+T10	GPE 1321 1338	Nederlands India,
+T11	Women 1877 1884	Susters
+T12	Number 1872 1876	Twee
+T13	Person 1895 1922	Johanna Concordia Hasselaar
+R2	Is Arg1:T13 Arg2:T11	
+T14	Women 1923 1932	huisvrouw
+R3	Is Arg1:T13 Arg2:T14	
+T15	GPE 1991 1998	Jocarta
+T16	Person 1999 2017	Arnoldus Diederiks
+T17	Person 2021 2034	Era Hasselaar
+R4	Is Arg1:T17 Arg2:T11	
+T18	Men 2192 2198	zwager
+T19	Person 2199 2205;2206 2219	Arnol„ dus Diederiks
+R5	Is Arg1:T19 Arg2:T18	

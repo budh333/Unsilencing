@@ -1,0 +1,13 @@
+T1	Person 454 470	Adriaan Abeleven
+T2	Men 108 121	weesmeesteren
+T3	Indigenous 994 1007	lijfseijgenen
+T4	GPE 1781 1811;1812 1825	oost zijde van de tijgersgragt binnen destad
+T5	Person 1844 1859	Abraham salomon
+T6	Person 1863 1889	sicardus d’ melo Clertdals
+T7	GPE 2170 2177	Batavia
+T8	Person 2224 2236	C: T severin
+T9	Person 2017 2028	E: blombert
+T10	Men 2029 2034	not„s
+R1	Is Arg1:T9 Arg2:T10	
+T11	Men 2134 2147	weesmeesteren
+R2	Is Arg1:T8 Arg2:T11	

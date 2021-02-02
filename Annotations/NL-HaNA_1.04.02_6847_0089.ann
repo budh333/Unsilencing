@@ -1,0 +1,14 @@
+T1	Person 512 536	Johannes Ezechiel Felist
+T2	Person 540 562	Louis Marcus Domingosz
+T3	Unclear_entity 752 770	28: Junij A:o 1770
+T5	Person 802 817	Egbert Blomhert
+T6	GPE 873 889	nederlands India
+T7	GPE 919 926	Batavia
+T8	Person 983 998	Henricus Pauwen
+T10	Person 1521 1536	Iohannes Lauwen
+T11	Person 1663 1676;1677 1680	Iacob van Ma„ tin
+T12	Men 2018 2024	mons:r
+T13	Person 2025 2044	Jan Sijbrand Braaks
+R2	Is Arg1:T13 Arg2:T12	
+T4	Men 818 825	notaris
+R1	Is Arg1:T5 Arg2:T4	

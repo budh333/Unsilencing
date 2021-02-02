@@ -1,0 +1,16 @@
+T1	Person 2 26	George Daniel
+Heisselaar
+T2	Person 1021 1036	Egbert Blomherl
+T3	Group 369 401;402 440	slaven die beleijdenisse van den Christelijken Podsdienst gedaan hebben
+T4	Indigenous 369 401;402 440	slaven die beleijdenisse van den Christelijken Podsdienst gedaan hebben
+T6	Person 867 884	Abraham Calomians
+T7	Person 889 893;894 901	Bes„ trondsz
+T5	Person 2 15;16 26	George Daniel Heisselaar
+T8	GPE 1145 1152	Batavia
+T9	Person 1175 1191	JC=l f=k Sevekin
+T10	Person 1275 1289	Leendert Rolff
+T11	GPE 1365 1377	stad Batavia
+T12	Person 1435 1438;1439 1455	Jan Daniel Hasselaat
+T13	Person 1524 1542	Chrestiia Bastiaua
+T14	Women 1517 1523	Memttw
+R1	Is Arg1:T13 Arg2:T14	

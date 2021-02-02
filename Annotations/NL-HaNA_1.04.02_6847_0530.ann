@@ -1,0 +1,10 @@
+T1	Men 7 10	hij
+T2	Person 11 34	Commandeur van den Berg
+R1	Is Arg1:T2 Arg2:T1	
+T3	Number 59 72	drie kinderen
+T4	Person 1068 1080	Willem Kegel
+T5	Men 1086 1097	Gesw Clercq
+R2	Is Arg1:T4 Arg2:T5	
+T6	Person 1294 1306	C: S Leverin
+T7	Men 1307 1317	Secretaris
+R3	Is Arg1:T6 Arg2:T7	

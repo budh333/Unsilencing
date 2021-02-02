@@ -1,0 +1,30 @@
+T1	Person 1171 1187	Abraham Jalomous
+T2	Person 1191 1207	Sirardus de Melo
+T4	Person 1624 1639	Pieter Haksteen
+T5	Person 1762 1775	Casparus Hout
+T6	Person 1837 1850	Pieter Jolias
+T7	Person 1892 1907	Hendrik Brugman
+T8	Person 2155 2177	Assuerus van den Bergh
+T9	Person 2292 2312	Geertruida, Geredina
+T10	Indigenous 775 781	slaven
+T11	Men 1208 1215	klerken
+R2	Is Arg1:T2 Arg2:T11	
+R3	Is Arg1:T1 Arg2:T11	
+T3	Person 1431 1446	Herman scheltus
+T12	Men 1428 1430	M:
+R4	Is Arg1:T3 Arg2:T12	
+T13	Men 1447 1462	notaris publicq
+R5	Is Arg1:T3 Arg2:T13	
+T14	Organization 1476 1512	hooge regeering van nederlands india
+T15	GPE 1541 1548	Batavia
+T16	Men 1908 1920	onderkoopman
+R6	Is Arg1:T7 Arg2:T16	
+T17	Men 2195 2231	Commandeur en opper Equipagiemeester
+R7	Is Arg1:T8 Arg2:T17	
+T18	Men 1962 1978	Equipagiemeester
+T19	Men 1640 1654;1655 1717;1718 1751	raad ord„s van Nederlands india en president in ’t Eerw„s Collegie van heeren Heem raeden deser stad ommelanden
+R8	Is Arg1:T4 Arg2:T19	
+T20	Women 2285 2291	dogter
+R9	Is Arg1:T9 Arg2:T20	
+T21	Men 2150 2154	Heer
+R10	Is Arg1:T8 Arg2:T21	

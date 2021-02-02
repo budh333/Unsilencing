@@ -1,0 +1,34 @@
+T1	Person 4 19	Matthem Welborn
+T3	Person 81 96	Herman Scheltus
+T2	Men 97 112	notaris publicq
+R1	Is Arg1:T3 Arg2:T2	
+T4	GPE 126 163	Hooge Reegeringe van nederlands india
+T5	GPE 193 200	batavia
+T7	Person 254 262;263 270	Mattheus welborn
+T8	Men 271 282	adsistent t
+T9	GPE 742 749;750 753	Amster„ dam
+T10	Men 757 764	de Heer
+T11	Person 765 781	David de Corduca
+R3	Is Arg1:T11 Arg2:T10	
+T12	Person 785 814	George Christoffel Aartshadde
+R4	Is Arg1:T12 Arg2:T10	
+T13	Women 1090 1100	Nejuffrouw
+T14	Men 1063 1070	de heer
+T15	Person 1071 1087	Coenraad welborn
+R5	Is Arg1:T15 Arg2:T14	
+T16	Person 1101 1124	Anna Adriana Aekkenhoek
+R6	Is Arg1:T16 Arg2:T13	
+T17	GPE 1138 1147	dordrecht
+T18	Person 1218 1226	Sijsbert
+T19	Men 1189 1196	broeder
+R7	Is Arg1:T18 Arg2:T19	
+T20	Women 1200 1207	Susters
+T21	Person 1228 1247	Elisabeth Frederica
+R8	Is Arg1:T21 Arg2:T20	
+T22	Person 1251 1264	Maria welboan
+R9	Is Arg1:T22 Arg2:T20	
+#1	AnnotatorNotes T21	Welborn
+#2	AnnotatorNotes T18	Welborn
+T23	Person 1880 1895	Laurens Pallans
+T24	Men 1896 1917	adjunct geswore klerk
+R10	Is Arg1:T23 Arg2:T24	

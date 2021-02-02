@@ -1,0 +1,8 @@
+T1	Person 1687 1699	Alida Elders
+T2	Women 1669 1679	huijsvrouw
+T3	Women 1680 1686	Juff=r
+R1	Is Arg1:T1 Arg2:T3	
+R2	Is Arg1:T1 Arg2:T2	
+T4	GPE 1714 1723	amsterdam
+T5	Organization 2244 2249;2250 2263	Heere Weesmeesteren
+T6	Person 2315 2320	Johan

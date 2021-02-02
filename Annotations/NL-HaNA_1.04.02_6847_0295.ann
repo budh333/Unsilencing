@@ -1,0 +1,13 @@
+T1	Person 742 755	A=re Salomans
+T2	Person 760 768;769 776	A=o Pie„ „tersz:
+T3	Person 948 960	E=s Dlomhert
+T4	Person 970 981;982 989	Christoffel Hartman
+T5	GPE 1196 1211	de stad Batavia
+T6	Person 1276 1301	Johan Christoffel Hartman
+T7	Men 1266 1275	Den Manh:
+R1	Is Arg1:T6 Arg2:T7	
+T8	GPE 1361 1365;1366 1378	Reug chiros-Gragt
+T9	Person 1850 1870	Regina van Zaijrepan
+T11	Women 1833 1841	slavinud
+R2	Is Arg1:T9 Arg2:T11	
+T10	Indigenous 1833 1841	slavinud

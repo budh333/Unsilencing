@@ -1,0 +1,10 @@
+T1	Men 266 272	slaaff
+T2	Indigenous 266 272	slaaff
+T3	Person 273 288	Ontong van Nias
+R1	Is Arg1:T3 Arg2:T1	
+T4	Women 292 300	slavinne
+T5	Indigenous 292 300	slavinne
+T6	Person 301 320	klarinda, van balij
+R2	Is Arg1:T6 Arg2:T5	
+T7	GPE 315 320	balij
+T8	GPE 284 288	Nias

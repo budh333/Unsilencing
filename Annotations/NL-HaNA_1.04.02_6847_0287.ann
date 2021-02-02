@@ -1,0 +1,41 @@
+T1	Person 248 266	Elisabeth Naalhout
+T2	Women 231 235;236 240	Moe„ „der
+T3	Women 241 247	vrauwe
+T4	Women 267 272	wed„e
+R1	Is Arg1:T1 Arg2:T4	
+R2	Is Arg1:T1 Arg2:T3	
+R3	Is Arg1:T1 Arg2:T2	
+T5	Men 281 292;293 297	den wel Ed: Heer
+T6	Men 301 304	M„r
+T7	Person 305 322	Johannes Hooreman
+R4	Is Arg1:T7 Arg2:T6	
+R5	Is Arg1:T7 Arg2:T5	
+T8	GPE 343 353	Rijs„
+wijk
+T9	Person 1218 1236;1279 1287	Jacobus Christiaan Thierens
+T11	Person 1238 1254;1279 1287	Sophia Henrietta Thierens
+T10	Person 1256 1272;1273 1287	Lieve Paulus Cor nelis Thierens
+T12	Person 1490 1505;1506 1514	Jacobus Hendrik Thierens
+T13	GPE 1536 1543	Naarden
+T14	Men 1471 1489	De WelEdele Heeren
+R6	Is Arg1:T12 Arg2:T14	
+T15	Person 1548 1555;1556 1586	Andreae Everhardus van Braam Houkgeest
+T16	Person 1643 1657;1658 1689	Lieve Martinus ijzaak van Rheede van Oudstoorn
+T17	Person 1718 1734	Hendrik Costerus
+T18	GPE 1765 1772	Muijden
+T19	Men 1699 1706;1707 1717	den wel Edele Heer
+R7	Is Arg1:T17 Arg2:T19	
+T20	Men 1618 1642	Den welEdel Agtb: Heeren
+R8	Is Arg1:T16 Arg2:T20	
+T21	Men 1913 1949	Den Hoog Edelen Groot Agtbaaren Heer
+T22	Person 1950 1978	Ptrus Albertus van der Paraa
+T23	GPE 2003 2019	Nederlands India
+T24	Person 2116 2124;2125 2135	Datid Zo van Smitss
+T25	Person 2194 2209	Adriaan Boesses
+T26	Person 2294 2312	Johannes Huijsinga
+T28	Men 2091 2115	Den WelEdele Gestr: Heer
+R10	Is Arg1:T22 Arg2:T21	
+R11	Is Arg1:T24 Arg2:T28	
+#1	AnnotatorNotes T22	Petrus Albertus van der Parra
+T27	Men 2314 2326	onderkoopman
+R9	Is Arg1:T26 Arg2:T27	

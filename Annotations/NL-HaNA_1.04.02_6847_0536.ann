@@ -1,0 +1,25 @@
+T1	Person 0 16	Hermanus Fredrik
+T2	Men 58 67	testateur
+T3	Person 119 141;142 150	Fredericus Constantijn Gerritsz
+T4	Person 157 180	Iacob Augustijn Pieters
+T5	Men 182 190	Clercque
+R1	Is Arg1:T3 Arg2:T5	
+R2	Is Arg1:T4 Arg2:T5	
+T6	Person 338 347	L:g Rolsf
+T7	Men 349 356	notaris
+R3	Is Arg1:T6 Arg2:T7	
+T8	Person 433 448	Herman Schellus
+T9	Men 449 464	notaris publicq
+R4	Is Arg1:T8 Arg2:T9	
+T10	GPE 479 516	hooge regieringh van nederlands India
+T11	GPE 546 553	Batavia
+T12	Men 603 609	Mons=r
+T13	Person 610 636	Hermanus Fredrik Seijliger
+R5	Is Arg1:T13 Arg2:T12	
+T14	Men 637 654	scheeps Corporaal
+R6	Is Arg1:T13 Arg2:T14	
+T15	Indigenous 1385 1392;1393 1407	de vrij Christen vrouw
+T16	Women 1385 1392;1393 1407	de vrij Christen vrouw
+T17	Person 1408 1430	Christina van Samarang
+R7	Is Arg1:T17 Arg2:T16	
+T18	Women 1449 1463	doop dogtertje

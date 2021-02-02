@@ -1,0 +1,44 @@
+T1	Person 240 256	Cornelis Potmans
+T2	Men 230 239	de Heeren
+R1	Is Arg1:T1 Arg2:T2	
+T3	Person 263 281	Johannes Huijsinga
+T4	Men 260 262	M„
+R2	Is Arg1:T3 Arg2:T4	
+R3	Is Arg1:T3 Arg2:T2	
+T5	Person 316 343	Elisabeth Machtilda de wijs
+T6	Person 365 370	Volle
+T7	Men 357 364	de Heer
+R4	Is Arg1:T6 Arg2:T7	
+T8	Women 307 315	Mejasp=m
+R5	Is Arg1:T5 Arg2:T8	
+#1	AnnotatorNotes T8	Mejffvr.
+T9	Person 617 622	Smith
+T10	Person 626 639	van der Burgh
+T11	Men 607 616	de Heeren
+R6	Is Arg1:T9 Arg2:T11	
+R7	Is Arg1:T10 Arg2:T11	
+T12	GPE 976 983	Batavia
+T13	Person 1024 1028	Romp
+T14	Person 1036 1056	Romp, Gebore Kuijper
+T15	Women 1032 1035	M„r
+R8	Is Arg1:T14 Arg2:T15	
+T16	Men 1020 1023	M=l
+R9	Is Arg1:T13 Arg2:T16	
+#2	AnnotatorNotes T14	Husband and Wife?
+R10	Family Arg1:T14 Arg2:T13	
+T17	Organization 1155 1175	Heeren weesmeesteren
+T18	Person 1264 1284	Carel fred=k Severin
+#3	AnnotatorNotes T18	Carel Fredrik Severin
+T19	Person 1355 1370	Egbert Blomhert
+T20	Men 1351 1354	A„r
+R11	Is Arg1:T19 Arg2:T20	
+T21	Organization 1391 1436	de Edele Hooge Regeering van Nederlands India
+T22	GPE 1420 1436	Nederlands India
+T23	GPE 1457 1472	de stad Batavia
+T24	Person 1537 1558	Jan Anthonij Thieraus
+T25	Men 1523 1536	DeHeer en M=r
+R12	Is Arg1:T24 Arg2:T25	
+T26	Person 1678 1688;1689 1703	Petronella Maria Hooreman
+T27	Women 1671 1677	Mems=n
+R13	Is Arg1:T26 Arg2:T27	
+#4	AnnotatorNotes T27	mejuffvrw.

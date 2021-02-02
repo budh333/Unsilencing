@@ -1,0 +1,19 @@
+T1	Indigenous 83 89	slaven
+T2	Women 93 102	slavinnen
+T3	Indigenous 93 102	slavinnen
+T4	Person 265 270	Diana
+T6	Person 294 299	diena
+T7	Person 303 312	Christina
+T8	Person 329 337	Augustus
+T9	Women 404 409;410 417	huijs „vrouw,
+T10	Person 439 459	Theodora van Naarden
+R4	Is Arg1:T10 Arg2:T9	
+T11	GPE 476 486	nagapatnam
+T12	Men 1200 1204	zoon
+T13	GPE 1388 1398	nagapatnam
+T14	Person 1701 1711	Christiaan
+T15	Men 1930 1934	zoon
+T16	Person 1953 1968	Salenus Iacobus
+R5	Is Arg1:T16 Arg2:T15	
+T17	Person 2381 2387;2388 2397	Willem duijnevel
+R1	Is Arg1:T4 Arg2:T9	

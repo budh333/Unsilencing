@@ -1,0 +1,12 @@
+T1	Indigenous 800 806	slaven
+T2	Person 1189 1205	Sirardus de Melo
+T3	Person 1209 1235	Iacobus Ieronimus Hanibalh
+T4	Person 1383 1386;1387 1401	Eg„ „bert Blomhert
+T5	GPE 1544 1551	Batavia
+T6	Person 1602 1615	C: I: Severin
+T7	Person 1630 1645	D'avid Coenraad
+T8	Unclear_entity 1659 1674	23: 9ber: Ao717
+T10	Person 1705 1720	Egbert Blomhert
+T11	Men 1887 1891	Heer
+T12	Person 1892 1906	David Coenraad
+R2	Is Arg1:T12 Arg2:T11	

@@ -1,0 +1,43 @@
+T1	Indigenous 526 534	slavinne
+T2	Women 526 534	slavinne
+T3	Person 543 556;557 560	Isa van bata„ via
+R1	Is Arg1:T3 Arg2:T1	
+R2	Is Arg1:T3 Arg2:T2	
+T4	Organization 752 794	armen van de gereformeerde gemeente alhier
+T5	Organization 862 875	Lutherse kerk
+T6	Women 984 994	doopdogter
+T7	Person 995 1007	Maria Nissel
+R3	Is Arg1:T7 Arg2:T6	
+T8	Indigenous 1040 1046	slaaff
+T9	Person 1047 1064	Pagone van Boegis
+R4	Is Arg1:T9 Arg2:T8	
+T10	Indigenous 1071 1079	Slavinne
+T11	Women 1071 1079	Slavinne
+T12	Person 1080 1098	Rosetta van Boeton
+R5	Is Arg1:T12 Arg2:T10	
+R6	Is Arg1:T12 Arg2:T11	
+T13	Women 1271 1277	moeder
+T14	Person 1278 1293	Susanna Bosniks
+R7	Is Arg1:T14 Arg2:T13	
+T15	Women 1300 1304	wed:
+T16	Person 1309 1328	Johan George Bosnik
+R8	Is Arg1:T14 Arg2:T15	
+T17	GPE 1374 1384	Frauenkerk
+T18	Men 1429 1442	halve broeder
+T19	Person 1443 1463	Anthon Joseph Felber
+R9	Is Arg1:T19 Arg2:T18	
+T20	Women 1485 1491	Suster
+T21	Person 1492 1500	Therisia
+T22	Person 1514 1528	Matthias Ebner
+T23	GPE 1533 1543	frauenkerk
+T24	Women 1611 1621	doopdogter
+T25	Person 1622 1627;1628 1634	Maria Nissel
+R10	Is Arg1:T25 Arg2:T24	
+T26	Women 1877 1888	doop dogter
+T27	Person 1889 1901	Maria Nissel
+R11	Is Arg1:T27 Arg2:T26	
+T28	Person 2185 2197	Maria Nissel
+R12	Is Arg1:T28 Arg2:T26	
+T29	Women 2456 2462	dogter
+T30	Person 2463 2475	Maria Nissel
+R13	Is Arg1:T30 Arg2:T29	
