@@ -12,6 +12,10 @@ The VOC testaments can be downloaded via this [link](https://eur04.safelinks.pro
 - **Corpus**: this folder contains 1202 transcribed pages from the folder 6847
 - **Corpus_6848** contains all transcribed pages from folder 6848
 
+## BRAT Guideline
+
+This file introduces the reader to our entities and relations in BRAT used to annotate the testaments. 
+
 ## Indexing!
 
 This is the main result of our project. This code collects all our BRAT annotations, extract list of terms used to describe men, women and indigenous peoples and createds and index found in that folder "qualifierbasedindex.xlsx"!
