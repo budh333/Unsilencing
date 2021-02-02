@@ -33,7 +33,7 @@ Eg: Nederlands Oost Indies Compagnie or Hoge Regering Nederlands India
 ## RELATIONS 
 (roughly in order of importance for our project)
 
-- **Is** Arg1:Person, Arg2:Indigenous|Women|Men|Mixed_ppl|Group
+- **Is** Arg1:Person, Arg2:Indigenous|Women|Men|Group
 Relation goes from person name to men/women/indigenous/mixed_ppl
 Eg: “Benjamin Heynen” to “heer”
 
@@ -41,7 +41,7 @@ Eg: “Benjamin Heynen” to “heer”
 - **Origin** Arg1:Organization, Arg2:GPE
 
 
-- **Number**  Arg1:Women|Men|Indigenous|Mixed_ppl|Group, Arg2:Number
+- **Number_of**  Arg1:Women|Men|Indigenous|Group, Arg2:Number
 Note (pardon me for using the same name “Number” for both entity and relation)
 Eg: sisters(“women”) to eight(“number”)
 
@@ -62,7 +62,7 @@ When a person’s name is stated, use Person otherwise choose other entities suc
 Eg: “Ms”(women) --is-- “Jamila van Nias” (Person) --Location--“Nias” (GPE)
 “VOC”(Organization) --Location-- “Batavia”(GPE)
 
-- **Geographical_part**  Arg1:GPE,    Arg2:GPE
-
+- **Geographical_part**  Arg1:GPE, Arg2:GPE
+Eg: "Amsterdam" --geographical_part--"Nederlands"
 
 
