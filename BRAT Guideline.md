@@ -22,7 +22,7 @@ Eg: mark 8 as Number entity in the example of 8 sisters or 3 for three children.
 Note: we’ve debated about whether it is useful to focus on the number of mentions (say Women) rather than the exact number (of women mentioned in these archives). For this case study, we have focused on the latter.
 
 - **Group**: to mark out specific groups benefiting from the will where no names are listed. \
-Eg. slaven
+Eg. slaven, kinderen, 
 
 - **GPE**: geopolitical entity \
 Eg: Jaccatra
@@ -38,10 +38,6 @@ Eg: Nederlands Oost Indies Compagnie or Hoge Regering Nederlands India
 Relation goes from person name to men/women/indigenous \
 Eg: “Benjamin Heynen” to “heer”
 
-
-- **Origin** Arg1:Organization, Arg2:GPE \
-Eg: 
-
 - **Number_of**  Arg1:Women|Men|Indigenous|Group, Arg2:Number \
 Note please note the distinction between “Number” for entity and "Number_of" for relation \
 Eg: sisters(“women”) to eight(“number”)
@@ -51,12 +47,12 @@ When a person has two names or multiple spellings of the same name.
 
 Note: We do not focus on family relations such as family, mother of, sister of, etc in this case study.
 
-- **Employment**  Arg1:Person|Indigenous|Women|Men|Mixed_ppl|Group, Arg2:Organization \
+- **Employment**  Arg1:Person|Indigenous|Women|Men|Group, Arg2:Organization \
 When person name is stated, use Person otherwise choose other entities such as men, women, indigenous \
 Eg: “Benjamin Heynen” --employment--“VOC”
 
 
-- **Location**  Arg1:Person|Indigenous|Women|Men|Mixed_ppl|Group|Organization, Arg2:GPE \
+- **Location**  Arg1:Person|Indigenous|Women|Men|Group|Organization, Arg2:GPE \
 When a person’s name is stated, use Person otherwise choose other entities such as men, women, indigenous \
 Eg: “Ms”(women) --is-- “Jamila van Nias” (Person) --Location--“Nias” (GPE) \
 “VOC”(Organization) --Location-- “Batavia”(GPE)
