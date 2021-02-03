@@ -8,12 +8,13 @@ Below is a list of entities and relations that we defined for our case study:
 ### ENTITIES
 
 - **Person**: Name of Person \
-Eg: Benjamin Heynen (There are often multiple spellings of the same name, these can be annotated as aliases.)
+Eg: Benjamin Heynen. \
+There are often multiple spellings of the same name, these can be annotated as aliases.
 
 
 - **Men, Women, Indigenous**: terms (such as titles and kinship terminology) that help us classify peoples \
-Eg: m:r, heer, moeder, vrije Christian vrouw, oom \
-Note: pronouns (such as mij, haar, zij) can be ignored \ 
+Eg: m:r, heer, moeder, vrije Christian vrouw, oom\
+Note: pronouns (such as mij, haar, zij) can be ignored\ 
 Job titles relating to men such as koopman shouldn’t be annotated - testateur is an exception to this guideline. 
 
 - **Number**: to signify number of entities \
