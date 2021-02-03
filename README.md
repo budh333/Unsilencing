@@ -1,6 +1,6 @@
 # Unsilencing
 
-This project was carried out by Thijs Vorstenburg, Clare Shutt, Saskia Virginia Noot under the supervision of Prof. Dr. Charles Jeurgens and Mrinalini Luthra at the University of Amsterdam working with the Nationaal Archief.
+This project was carried out by Thijs Vorstenburg, Clare Shutt, Saskia Virginia Noot under the supervision of Prof. Dr. Charles Jeurgens and Mrinalini Luthra at the University of Amsterdam in collaboration with the Nationaal Archief.
 
 Description of this repository:
 
