@@ -45,8 +45,6 @@ Eg: sisters(“women”) to eight(“number”)
 - **Alias**  Arg1:Person, Arg2:Person, <REL-TYPE>:symmetric-transitive \
 When a person has two names or multiple spellings of the same name. 
 
-Note: We do not focus on family relations such as family, mother of, sister of, etc in this case study.
-
 - **Employment**  Arg1:Person|Indigenous|Women|Men|Group, Arg2:Organization \
 When person name is stated, use Person otherwise choose other entities such as men, women, indigenous \
 Eg: “Benjamin Heynen” --employment--“VOC”
@@ -59,5 +57,7 @@ Eg: “Ms”(women) --is-- “Jamila van Nias” (Person) --Location--“Nias”
 
 - **Geographical_part**  Arg1:GPE, Arg2:GPE \
 Eg: "Amsterdam" --geographical_part--"Nederlands"
+
+Note: We do not focus on family relations such as family, mother of, sister of, etc in this case study.
 
 
