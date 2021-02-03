@@ -14,7 +14,7 @@ There are often multiple spellings of the same name, these can be annotated as a
 
 - **Men, Women, Indigenous**: terms (such as titles and kinship terminology) that help us classify peoples \
 Eg: m:r, heer, moeder, vrije Christian vrouw, oom\
-Note: pronouns (such as mij, haar, zij) can be ignored\ 
+Note: pronouns (such as mij, haar, zij) can be ignored. \ 
 Job titles relating to men such as koopman shouldn’t be annotated - testateur is an exception to this guideline. 
 
 - **Number**: to signify number of entities \
@@ -47,7 +47,7 @@ Note please note the distinction between “Number” for entity and "Number_of"
 Eg: sisters(“women”) to eight(“number”)
 
 - **Alias**  Arg1:Person, Arg2:Person, <REL-TYPE>:symmetric-transitive \
-When a person has two names or multiple spellings of the same name. \
+When a person has two names or multiple spellings of the same name. 
 
 Note: We do not focus on family relations such as family, mother of, sister of, etc in this case study.
 
