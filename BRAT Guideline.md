@@ -14,7 +14,7 @@ There are often multiple spellings of the same name, these can be annotated as a
 
 - **Men, Women, Indigenous**: terms (such as titles and kinship terminology) that help us classify peoples \
 Eg: m:r, heer, moeder, vrije Christian vrouw, oom\
-Note: pronouns (such as mij, haar, zij) can be ignored. \ 
+Note: pronouns (such as mij, haar, zij) can be ignored.\ 
 Job titles relating to men such as koopman shouldn’t be annotated - testateur is an exception to this guideline. 
 
 - **Number**: to signify number of entities \
