@@ -11,9 +11,9 @@ Below is a list of entities and relations that we defined for our case study:
 Eg: Benjamin Heynen (There are often multiple spellings of the same name, these can be annotated as aliases.)
 
 
-- **Men, Women, Indigenous**: terms (such as titles and kinship terminology) that help us classify peoples 
-Eg: m:r, heer, moeder, vrije Christian vrouw, oom
-Note: pronouns (such as mij, haar, zij) can be ignored 
+- **Men, Women, Indigenous**: terms (such as titles and kinship terminology) that help us classify peoples \
+Eg: m:r, heer, moeder, vrije Christian vrouw, oom \
+Note: pronouns (such as mij, haar, zij) can be ignored \ 
 Job titles relating to men such as koopman shouldn’t be annotated - testateur is an exception to this guideline.
 
 - **Number**: to signify number of entities
@@ -62,8 +62,7 @@ When a person’s name is stated, use Person otherwise choose other entities suc
 Eg: “Ms”(women) --is-- “Jamila van Nias” (Person) --Location--“Nias” (GPE)
 “VOC”(Organization) --Location-- “Batavia”(GPE)
 
-- **Geographical_part**  Arg1:GPE, Arg2:GPE
-
+- **Geographical_part**  Arg1:GPE, Arg2:GPE \
 Eg: "Amsterdam" --geographical_part--"Nederlands"
 
 
