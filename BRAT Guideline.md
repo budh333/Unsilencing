@@ -63,6 +63,7 @@ Eg: “Ms”(women) --is-- “Jamila van Nias” (Person) --Location--“Nias”
 “VOC”(Organization) --Location-- “Batavia”(GPE)
 
 - **Geographical_part**  Arg1:GPE, Arg2:GPE
+
 Eg: "Amsterdam" --geographical_part--"Nederlands"
 
 
